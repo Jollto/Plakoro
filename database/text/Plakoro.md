@@ -643,7 +643,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Pokemon   | Pikachu                                                            |
 | Energy    | {L}{L}                                                             |
 | Damage    | 20                                                                 |
-| Effect    | This attack's damage isn't affected by Weakness                    |
+| Effect    | This attack's damage isn't affected by Weakness.                   |
 | Standing  | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
 | Handstand |                                                                    |
 | Back      | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
@@ -720,10 +720,10 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {M}                                                                               |
 | Damage    | 20                                                                                |
 | Effect    |                                                                                   |
-| Standing  | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Standing  | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
 | Handstand |                                                                                   |
-| Back      | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Down      | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Back      | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
+| Down      | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
 | Sideways  |                                                                                   |
 
 ![Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
@@ -789,20 +789,20 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 #### Flop
 
-| Name      | Flop            |
-| --------- | --------------- |
-| Japanese  | はねまわる      |
-| Type      | Normal          |
-| Code      | STW05-004       |
-| Pokemon   | Eevee           |
-| Energy    | {Y}{Y}{Y}       |
-| Damage    |                 |
-| Effect    |                 |
-| Standing  | Deal 70 damage. |
-| Handstand | Deal 20 damage. |
-| Back      | Deal 40 damage. |
-| Down      | Deal 40 damage. |
-| Sideways  | Deal 20 damage. |
+| Name      | Flop                        |
+| --------- | --------------------------- |
+| Japanese  | はねまわる                  |
+| Type      | Normal                      |
+| Code      | STW05-004                   |
+| Pokemon   | Eevee                       |
+| Energy    | {Y}{Y}{Y}                   |
+| Damage    |                             |
+| Effect    |                             |
+| Standing  | This attack does 70 damage. |
+| Handstand | This attack does 20 damage. |
+| Back      | This attack does 40 damage. |
+| Down      | This attack does 40 damage. |
+| Sideways  | This attack does 20 damage. |
 
 ![Flop](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard04.webp)
 
@@ -869,7 +869,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Confusion                        |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | ねんりき                         |
 | Type      | Psychic                          |
 | Code      | STW06-001                        |
 | Pokemon   | Mew                              |
@@ -888,7 +888,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Psybeam                          |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | サイケこうせん                   |
 | Type      | Psychic                          |
 | Code      | STW06-002                        |
 | Pokemon   | Mew                              |
@@ -907,7 +907,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Barrier                                                                           |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | バリアー                                                                          |
 | Type      | Psychic                                                                           |
 | Code      | STW06-003                                                                         |
 | Pokemon   | Mew                                                                               |
@@ -926,7 +926,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Memory Skip                                                                              |
 | --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | メモリースキップ                                                                         |
 | Type      | Psychic                                                                                  |
 | Code      | STW06-004                                                                                |
 | Pokemon   | Mew                                                                                      |
@@ -945,7 +945,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Psyshot                          |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | サイコショット                   |
 | Type      | Psychic                          |
 | Code      | STW06-005                        |
 | Pokemon   | Mew                              |
@@ -964,7 +964,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Psychic                                                                                           |
 | --------- | ------------------------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | サイコキネシス                                                                                    |
 | Type      | Psychic                                                                                           |
 | Code      | STW06-006                                                                                         |
 | Pokemon   | Mew                                                                                               |
@@ -983,18 +983,18 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Reflection ?                                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  |
+| Japanese  | リフレクション                                                                                                                             |
 | Type      | Psychic                                                                                                                                    |
 | Code      | STW06-007                                                                                                                                  |
 | Pokemon   | Mew                                                                                                                                        |
 | Energy    | {P}{P}{P}{P}                                                                                                                               |
 | Damage    | 20                                                                                                                                         |
 | Effect    | This move does damage equal to the damage of the last move selected by your opponent. (Ignore any Charakoro effects of the selected move.) |
-| Standing  | Damage dealt by this move is doubled.                                                                                                      |
+| Standing  | Damage dealt by this attack is doubled.                                                                                                    |
 | Handstand |                                                                                                                                            |
 | Back      |                                                                                                                                            |
 | Down      |                                                                                                                                            |
-| Sideways  | Damage dealt by this move is doubled.                                                                                                      |
+| Sideways  | Damage dealt by this attack is doubled.                                                                                                    |
 
 ![Reflection](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard07.webp)
 
@@ -1779,7 +1779,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Handstand |                                                                                   |
 | Back      |                                                                                   |
 | Down      |                                                                                   |
-| Sideways  | Reduce damage taken by an additional 30.                                          |
+| Sideways  | Reduce damage taken by an additional 20.                                          |
 
 ![Rock Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard01.webp)
 
@@ -2003,11 +2003,11 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {D}{D}{D}                                                                                                      |
 | Damage    | 30                                                                                                             |
 | Effect    |                                                                                                                |
-| Standing  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Standing  | During your last turn, if this Pokemon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 | Handstand |                                                                                                                |
-| Back      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Back      | During your last turn, if this Pokemon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 | Down      |                                                                                                                |
-| Sideways  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Sideways  | During your last turn, if this Pokemon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 
 ![Toxic Heal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
 
@@ -2079,10 +2079,10 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {D}{D}{D}                                                                                                     |
 | Damage    | 30                                                                                                            |
 | Effect    |                                                                                                               |
-| Standing  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
+| Standing  | During your last turn, if this Pokemon's "Poison Gas" attack was successful, this attack does 30 more damage. |
 | Handstand |                                                                                                               |
-| Back      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
-| Down      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
+| Back      | During your last turn, if this Pokemon's "Poison Gas" attack was successful, this attack does 30 more damage. |
+| Down      | During your last turn, if this Pokemon's "Poison Gas" attack was successful, this attack does 30 more damage. |
 | Sideways  |                                                                                                               |
 
 ![Toxic Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard08.webp)
