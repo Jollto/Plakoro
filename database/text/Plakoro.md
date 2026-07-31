@@ -789,20 +789,20 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 #### Flop
 
-| Name      | Flop            |
-| --------- | --------------- |
-| Japanese  | はねまわる      |
-| Type      | Normal          |
-| Code      | STW05-004       |
-| Pokemon   | Eevee           |
-| Energy    | {Y}{Y}{Y}       |
-| Damage    |                 |
-| Effect    |                 |
-| Standing  | Deal 70 damage. |
-| Handstand | Deal 20 damage. |
-| Back      | Deal 40 damage. |
-| Down      | Deal 40 damage. |
-| Sideways  | Deal 20 damage. |
+| Name      | Flop                        |
+| --------- | --------------------------- |
+| Japanese  | はねまわる                  |
+| Type      | Normal                      |
+| Code      | STW05-004                   |
+| Pokemon   | Eevee                       |
+| Energy    | {Y}{Y}{Y}                   |
+| Damage    |                             |
+| Effect    |                             |
+| Standing  | This attack does 70 damage. |
+| Handstand | This attack does 20 damage. |
+| Back      | This attack does 40 damage. |
+| Down      | This attack does 40 damage. |
+| Sideways  | This attack does 20 damage. |
 
 ![Flop](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard04.webp)
 
