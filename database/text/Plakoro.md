@@ -643,7 +643,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Pokemon   | Pikachu                                                            |
 | Energy    | {L}{L}                                                             |
 | Damage    | 20                                                                 |
-| Effect    | This attack's damage isn't affected by Weakness                    |
+| Effect    | This attack's damage isn't affected by Weakness.                   |
 | Standing  | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
 | Handstand |                                                                    |
 | Back      | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
@@ -720,10 +720,10 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {M}                                                                               |
 | Damage    | 20                                                                                |
 | Effect    |                                                                                   |
-| Standing  | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Standing  | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
 | Handstand |                                                                                   |
-| Back      | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Down      | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Back      | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
+| Down      | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
 | Sideways  |                                                                                   |
 
 ![Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
@@ -2003,11 +2003,11 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {D}{D}{D}                                                                                                      |
 | Damage    | 30                                                                                                             |
 | Effect    |                                                                                                                |
-| Standing  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Standing  | During your last turn, if this Pokemon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 | Handstand |                                                                                                                |
-| Back      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Back      | During your last turn, if this Pokemon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 | Down      |                                                                                                                |
-| Sideways  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Sideways  | During your last turn, if this Pokemon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 
 ![Toxic Heal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
 
@@ -2079,10 +2079,10 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {D}{D}{D}                                                                                                     |
 | Damage    | 30                                                                                                            |
 | Effect    |                                                                                                               |
-| Standing  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
+| Standing  | During your last turn, if this Pokemon's "Poison Gas" attack was successful, this attack does 30 more damage. |
 | Handstand |                                                                                                               |
-| Back      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
-| Down      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
+| Back      | During your last turn, if this Pokemon's "Poison Gas" attack was successful, this attack does 30 more damage. |
+| Down      | During your last turn, if this Pokemon's "Poison Gas" attack was successful, this attack does 30 more damage. |
 | Sideways  |                                                                                                               |
 
 ![Toxic Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard08.webp)
