@@ -51,4 +51,4 @@ Please open an Issue for discussion or submit a Pull Request.
 
 Unless otherwise noted, my original contributions to this repository are dedicated to the public domain under **CC-BY-NC-4.0**.
 
-This license does **not** apply to Plakoro's original artwork, logos, card layouts, or any other copyrighted material owned by their respective rights holders.
+This license does **not** apply to either Pokemon's and Plakoro's original artwork, logos, card layouts, or any other copyrighted material owned by their respective rights holders.
