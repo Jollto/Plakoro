@@ -869,7 +869,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Confusion                        |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | ねんりき                         |
 | Type      | Psychic                          |
 | Code      | STW06-001                        |
 | Pokemon   | Mew                              |
@@ -888,7 +888,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Psybeam                          |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | サイケこうせん                   |
 | Type      | Psychic                          |
 | Code      | STW06-002                        |
 | Pokemon   | Mew                              |
@@ -907,7 +907,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Barrier                                                                           |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | バリアー                                                                          |
 | Type      | Psychic                                                                           |
 | Code      | STW06-003                                                                         |
 | Pokemon   | Mew                                                                               |
@@ -926,7 +926,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Memory Skip                                                                              |
 | --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | メモリースキップ                                                                         |
 | Type      | Psychic                                                                                  |
 | Code      | STW06-004                                                                                |
 | Pokemon   | Mew                                                                                      |
@@ -945,7 +945,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Psyshot                          |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | サイコショット                   |
 | Type      | Psychic                          |
 | Code      | STW06-005                        |
 | Pokemon   | Mew                              |
@@ -964,7 +964,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Psychic                                                                                           |
 | --------- | ------------------------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | サイコキネシス                                                                                    |
 | Type      | Psychic                                                                                           |
 | Code      | STW06-006                                                                                         |
 | Pokemon   | Mew                                                                                               |
@@ -983,18 +983,18 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Reflection ?                                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  |
+| Japanese  | リフレクション                                                                                                                             |
 | Type      | Psychic                                                                                                                                    |
 | Code      | STW06-007                                                                                                                                  |
 | Pokemon   | Mew                                                                                                                                        |
 | Energy    | {P}{P}{P}{P}                                                                                                                               |
 | Damage    | 20                                                                                                                                         |
 | Effect    | This move does damage equal to the damage of the last move selected by your opponent. (Ignore any Charakoro effects of the selected move.) |
-| Standing  | Damage dealt by this move is doubled.                                                                                                      |
+| Standing  | Damage dealt by this attack is doubled.                                                                                                    |
 | Handstand |                                                                                                                                            |
 | Back      |                                                                                                                                            |
 | Down      |                                                                                                                                            |
-| Sideways  | Damage dealt by this move is doubled.                                                                                                      |
+| Sideways  | Damage dealt by this attack is doubled.                                                                                                    |
 
 ![Reflection](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard07.webp)
 
@@ -1779,7 +1779,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Handstand |                                                                                   |
 | Back      |                                                                                   |
 | Down      |                                                                                   |
-| Sideways  | Reduce damage taken by an additional 30.                                          |
+| Sideways  | Reduce damage taken by an additional 20.                                          |
 
 ![Rock Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard01.webp)
 
