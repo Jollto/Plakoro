@@ -83,7 +83,7 @@
 
 | Name     | Eevee     |
 | -------- | --------- |
-| Type     | Colorless |
+| Type     | Normal    |
 | Code     | STC05-001 |
 | Weakness | Fighting  |
 | HP       | 120       |
@@ -171,6 +171,7 @@
 
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -189,6 +190,7 @@
 
 | Name      | Vine Whip                        |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Grass                            |
 | Code      | STW01-001                        |
 | Pokemon   | Bulbasaur                        |
@@ -207,6 +209,7 @@
 
 | Name      | Razor Leaf                       |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Grass                            |
 | Code      | STW01-002                        |
 | Pokemon   | Bulbasaur                        |
@@ -225,6 +228,7 @@
 
 | Name      | Leech Seed                                                                                                                                 |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japanese  |
 | Type      | Grass                                                                                                                                      |
 | Code      | STW01-003                                                                                                                                  |
 | Pokemon   | Bulbasaur                                                                                                                                  |
@@ -243,6 +247,7 @@
 
 | Name      | Grass Knot                                                                               |
 | --------- | ---------------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Grass                                                                                    |
 | Code      | STW01-004                                                                                |
 | Pokemon   | Bulbasaur                                                                                |
@@ -261,6 +266,7 @@
 
 | Name      | Rush ?                                      |
 | --------- | ------------------------------------------- |
+| Japanese  |
 | Type      | Grass                                       |
 | Code      | STW01-005                                   |
 | Pokemon   | Bulbasaur                                   |
@@ -278,7 +284,9 @@
 #### Giga Drain
 
 | Name      | Giga Drain                        |
+| Japanese  |
 | --------- | --------------------------------- |
+| Japanese  |
 | Type      | Grass                             |
 | Code      | STW01-006                         |
 | Pokemon   | Bulbasaur                         |
@@ -296,7 +304,9 @@
 #### Acid Spray
 
 | Name      | Acid Spray                       |
+| Japanese  |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Dark                             |
 | Code      | STW01-007                        |
 | Pokemon   | Bulbasaur                        |
@@ -317,6 +327,7 @@
 
 | Name      | Ember                            |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Fire                             |
 | Code      | STW02-001                        |
 | Pokemon   | Charmander                       |
@@ -335,6 +346,7 @@
 
 | Name      | Heat Up ?                                                        |
 | --------- | ---------------------------------------------------------------- |
+| Japanese  |
 | Type      | Fire                                                             |
 | Code      | STW02-002                                                        |
 | Pokemon   | Charmander                                                       |
@@ -353,6 +365,7 @@
 
 | Name      | Flamethrower                                                   |
 | --------- | -------------------------------------------------------------- |
+| Japanese  |
 | Type      | Fire                                                           |
 | Code      | STW02-003                                                      |
 | Pokemon   | Charmander                                                     |
@@ -371,6 +384,7 @@
 
 | Name      | Fire Fang                        |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Fire                             |
 | Code      | STW02-004                        |
 | Pokemon   | Charmander                       |
@@ -389,6 +403,7 @@
 
 | Name      | Flare Storm                                               |
 | --------- | --------------------------------------------------------- |
+| Japanese  |
 | Type      | Fire                                                      |
 | Code      | STW02-005                                                 |
 | Pokemon   | Charmander                                                |
@@ -407,6 +422,7 @@
 
 | Name      | Thunder Punch                    |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Lightning                        |
 | Code      | STW02-006                        |
 | Pokemon   | Charmander                       |
@@ -425,6 +441,7 @@
 
 | Name      | Metal Claw                       |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Steel                            |
 | Code      | STW02-007                        |
 | Pokemon   | Charmander                       |
@@ -445,6 +462,7 @@
 
 | Name      | Water Gun                        |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Water                            |
 | Code      | STW03-001                        |
 | Pokemon   | Squirtle                         |
@@ -463,6 +481,7 @@
 
 | Name      | Withdraw                                                                          |
 | --------- | --------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Water                                                                             |
 | Code      | STW03-002                                                                         |
 | Pokemon   | Squirtle                                                                          |
@@ -481,6 +500,7 @@
 
 | Name      | Water Pulse                      |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Water                            |
 | Code      | STW03-003                        |
 | Pokemon   | Squirtle                         |
@@ -499,6 +519,7 @@
 
 | Name      | Shell Attack                                                                      |
 | --------- | --------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Water                                                                             |
 | Code      | STW03-004                                                                         |
 | Pokemon   | Squirtle                                                                          |
@@ -517,6 +538,7 @@
 
 | Name      | Bubble Beam                                                               |
 | --------- | ------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Water                                                                     |
 | Code      | STW03-005                                                                 |
 | Pokemon   | Squirtle                                                                  |
@@ -535,6 +557,7 @@
 
 | Name      | Hydro Rage ?                                                                  |
 | --------- | ----------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Water                                                                         |
 | Code      | STW03-006                                                                     |
 | Pokemon   | Squirtle                                                                      |
@@ -553,6 +576,7 @@
 
 | Name      | Mud Shot                         |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Fighting                         |
 | Code      | STW03-007                        |
 | Pokemon   | Squirtle                         |
@@ -573,6 +597,7 @@
 
 | Name      | Nibble ?                         |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Lightning                        |
 | Code      | STW04-001                        |
 | Pokemon   | Pikachu                          |
@@ -591,6 +616,7 @@
 
 | Name      | Thunder Shock                    |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Lightning                        |
 | Code      | STW04-002                        |
 | Pokemon   | Pikachu                          |
@@ -609,6 +635,7 @@
 
 | Name      | Electric Rush ?                                                    |
 | --------- | ------------------------------------------------------------------ |
+| Japanese  |
 | Type      | Lightning                                                          |
 | Code      | STW04-003                                                          |
 | Pokemon   | Pikachu                                                            |
@@ -627,6 +654,7 @@
 
 | Name      | Thunderbolt                                                    |
 | --------- | -------------------------------------------------------------- |
+| Japanese  |
 | Type      | Lightning                                                      |
 | Code      | STW04-004                                                      |
 | Pokemon   | Pikachu                                                        |
@@ -645,6 +673,7 @@
 
 | Name      | Thunder                          |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Lightning                        |
 | Code      | STW04-005                        |
 | Pokemon   | Pikachu                          |
@@ -663,6 +692,7 @@
 
 | Name      | Volt Tackle                                 |
 | --------- | ------------------------------------------- |
+| Japanese  |
 | Type      | Lightning                                   |
 | Code      | STW04-006                                   |
 | Pokemon   | Pikachu                                     |
@@ -681,6 +711,7 @@
 
 | Name      | Iron Tail                                                                         |
 | --------- | --------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Steel                                                                             |
 | Code      | STW04-007                                                                         |
 | Pokemon   | Pikachu                                                                           |
@@ -701,7 +732,8 @@
 
 | Name      | Tail Slap                        |
 | --------- | -------------------------------- |
-| Type      | Colorless                        |
+| Japanese  | しっぽではたく                   |
+| Type      | Normal                           |
 | Code      | STW05-001                        |
 | Pokemon   | Eevee                            |
 | Energy    | {Y}                              |
@@ -719,7 +751,8 @@
 
 | Name      | Tackle                           |
 | --------- | -------------------------------- |
-| Type      | Colorless                        |
+| Japanese  | たいあたり                       |
+| Type      | Normal                           |
 | Code      | STW05-002                        |
 | Pokemon   | Eevee                            |
 | Energy    | {Y}{Y}                           |
@@ -733,11 +766,12 @@
 
 ![Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard02.webp)
 
-#### Charge ?
+#### Take Down
 
-| Name      | Charge ?                                    |
+| Name      | Take Down                                   |
 | --------- | ------------------------------------------- |
-| Type      | Colorless                                   |
+| Japanese  | とっしん                                    |
+| Type      | Normal                                      |
 | Code      | STW05-003                                   |
 | Pokemon   | Eevee                                       |
 | Energy    | {Y}{Y}                                      |
@@ -749,13 +783,14 @@
 | Down      | This Pokémon also does 20 damage to itself. |
 | Landscape |                                             |
 
-![Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard03.webp)
+![Take Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard03.webp)
 
-#### Bounce Around ?
+#### Flop
 
-| Name      | Bounce Around ? |
+| Name      | Flop            |
 | --------- | --------------- |
-| Type      | Colorless       |
+| Japanese  | はねまわる      |
+| Type      | Normal          |
 | Code      | STW05-004       |
 | Pokemon   | Eevee           |
 | Energy    | {Y}{Y}{Y}       |
@@ -767,13 +802,14 @@
 | Down      | Deal 40 damage. |
 | Landscape | Deal 20 damage. |
 
-![Bounce Around](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard04.webp)
+![Flop](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard04.webp)
 
 #### Full Power Dash ?
 
 | Name      | Full Power Dash ?                |
 | --------- | -------------------------------- |
-| Type      | Colorless                        |
+| Japanese  | ぜんりょくダッシュ               |
+| Type      | Normal                           |
 | Code      | STW05-005                        |
 | Pokemon   | Eevee                            |
 | Energy    | {C}{C}{C}{C}{C}                  |
@@ -791,6 +827,7 @@
 
 | Name      | Charm                                                                     |
 | --------- | ------------------------------------------------------------------------- |
+| Japanese  | あまえる                                                                  |
 | Type      | Psychic                                                                   |
 | Code      | STW05-006                                                                 |
 | Pokemon   | Eevee                                                                     |
@@ -809,6 +846,7 @@
 
 | Name      | Bite                             |
 | --------- | -------------------------------- |
+| Japanese  | かみつく                         |
 | Type      | Dark                             |
 | Code      | STW05-007                        |
 | Pokemon   | Eevee                            |
@@ -829,6 +867,7 @@
 
 | Name      | Confusion                        |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Psychic                          |
 | Code      | STW06-001                        |
 | Pokemon   | Mew                              |
@@ -847,6 +886,7 @@
 
 | Name      | Psybeam                          |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Psychic                          |
 | Code      | STW06-002                        |
 | Pokemon   | Mew                              |
@@ -865,6 +905,7 @@
 
 | Name      | Barrier                                                                           |
 | --------- | --------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Psychic                                                                           |
 | Code      | STW06-003                                                                         |
 | Pokemon   | Mew                                                                               |
@@ -883,6 +924,7 @@
 
 | Name      | Memory Skip                                                                              |
 | --------- | ---------------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Psychic                                                                                  |
 | Code      | STW06-004                                                                                |
 | Pokemon   | Mew                                                                                      |
@@ -901,6 +943,7 @@
 
 | Name      | Psyshot                          |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Psychic                          |
 | Code      | STW06-005                        |
 | Pokemon   | Mew                              |
@@ -919,6 +962,7 @@
 
 | Name      | Psychic                                                                                           |
 | --------- | ------------------------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Psychic                                                                                           |
 | Code      | STW06-006                                                                                         |
 | Pokemon   | Mew                                                                                               |
@@ -937,6 +981,7 @@
 
 | Name      | Reflection ?                                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japanese  |
 | Type      | Psychic                                                                                                                                    |
 | Code      | STW06-007                                                                                                                                  |
 | Pokemon   | Mew                                                                                                                                        |
@@ -953,150 +998,203 @@
 
 ### Pinsir Cards
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+#### Concentrator ?
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+| Name      | Concentrator ?                                                   |
+| --------- | ---------------------------------------------------------------- |
+| Japanese  | しゅうちゅう                                                     |
+| Type      | Grass                                                            |
+| Code      | EBW01-001                                                        |
+| Pokemon   | Pinsir                                                           |
+| Energy    | {G}                                                              |
+| Damage    |                                                                  |
+| Effect    |                                                                  |
+| Standing  | On your next turn, increase the number of Enekoro you roll by 2. |
+| Handstand |                                                                  |
+| Back      |                                                                  |
+| Down      |                                                                  |
+| Landscape | On your next turn, increase the number of Enekoro you roll by 2. |
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+![Concentrator](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+#### Endure ?
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+| Name      | Endure ?                                                                          |
+| --------- | --------------------------------------------------------------------------------- |
+| Japanese  | たえる                                                                            |
+| Type      | Grass                                                                             |
+| Code      | EBW01-002                                                                         |
+| Pokemon   | Pinsir                                                                            |
+| Energy    | {G}{G}                                                                            |
+| Damage    |                                                                                   |
+| Effect    | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
+| Standing  | Reduce damage taken by an additional 20.                                          |
+| Handstand |                                                                                   |
+| Back      | Reduce damage taken by an additional 20.                                          |
+| Down      | Reduce damage taken by an additional 20.                                          |
+| Landscape |                                                                                   |
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+![Endure](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+#### Horn Attack ?
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+| Name      | Horn Attack ?                    |
+| --------- | -------------------------------- |
+| Japanese  | つのでたたく                     |
+| Type      | Grass                            |
+| Code      | EBW01-003                        |
+| Pokemon   | Pinsir                           |
+| Energy    | {G}{G}{G}                        |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 30 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Landscape | This attack does 30 more damage. |
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+![Horn Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+#### Guillotine
+
+| Name      | Guillotine                   |
+| --------- | ---------------------------- |
+| Japanese  | ハサミギロチン               |
+| Type      | Normal                       |
+| Code      | EBW01-004                    |
+| Pokemon   | Pinsir                       |
+| Energy    | {G}{G}{G}{G}{G}              |
+| Damage    |                              |
+| Effect    |                              |
+| Standing  | This attack does 150 damage. |
+| Handstand |                              |
+| Back      |                              |
+| Down      |                              |
+| Landscape |                              |
+
+![Guillotine](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
+
+#### Brick Break
+
+| Name      | Brick Break                      |
+| --------- | -------------------------------- |
+| Japanese  | かわらわり                       |
+| Type      | Fighting                         |
+| Code      | EBW01-005                        |
+| Pokemon   | Pinsir                           |
+| Energy    | {F}                              |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 20 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 30 more damage. |
+| Down      |                                  |
+| Landscape |                                  |
+
+![Brick Break](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
+
+#### Scissors Charge ?
+
+| Name      | Scissors Charge ?                                                |
+| --------- | ---------------------------------------------------------------- |
+| Japanese  | チャージばさみ                                                   |
+| Type      | Grass                                                            |
+| Code      | EBW01-006                                                        |
+| Pokemon   | Pinsir                                                           |
+| Energy    | {G}{G}                                                           |
+| Damage    | 20                                                               |
+| Effect    |                                                                  |
+| Standing  | On your next turn, increase the number of Enekoro you roll by 1. |
+| Handstand |                                                                  |
+| Back      | On your next turn, increase the number of Enekoro you roll by 1. |
+| Down      |                                                                  |
+| Landscape |                                                                  |
+
+![Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+
+#### Berserk Swing ?
+
+| Name      | Berserk Swing ?                                                                      |
+| --------- | ------------------------------------------------------------------------------------ |
+| Japanese  | ぎゃくじょうスイング                                                                 |
+| Type      | Grass                                                                                |
+| Code      | EBW01-007                                                                            |
+| Pokemon   | Pinsir                                                                               |
+| Energy    | {G}{G}{G}                                                                            |
+| Damage    | 10                                                                                   |
+| Effect    |                                                                                      |
+| Standing  | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
+| Handstand |                                                                                      |
+| Back      |                                                                                      |
+| Down      |                                                                                      |
+| Landscape | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
+
+![Pincer Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
+
+#### Reckless Charge
+
+| Name      | Reckless Charge                             |
+| --------- | ------------------------------------------- |
+| Japanese  | とつげき                                    |
+| Type      | Grass                                       |
+| Code      | EBW01-008                                   |
+| Pokemon   | Pinsir                                      |
+| Energy    | {G}{G}{G}                                   |
+| Damage    | 30                                          |
+| Effect    |                                             |
+| Standing  | This attack does 20 more damage.            |
+| Handstand | This Pokémon also does 20 damage to itself. |
+| Back      | This attack does 20 more damage.            |
+| Down      | This Pokémon also does 20 damage to itself. |
+| Landscape |                                             |
+
+![Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
+
+#### Deadly Scissors ?
+
+| Name      | Deadly Scissors ?                |
+| --------- | -------------------------------- |
+| Japanese  | ひっさつばさみ                   |
+| Type      | Grass                            |
+| Code      | EBW01-009                        |
+| Pokemon   | Pinsir                           |
+| Energy    | {G}{G}{G}{G}                     |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 80 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Landscape |                                  |
+
+![Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+
+#### Submission
+
+| Name      | Submission                                  |
+| --------- | ------------------------------------------- |
+| Japanese  | じごくぐるま                                |
+| Type      | Fighting                                    |
+| Code      | EBW01-010                                   |
+| Pokemon   | Pinsir                                      |
+| Energy    | {F}{C}{C}{C}                                |
+| Damage    | 30                                          |
+| Effect    | This Pokémon also does 20 damage to itself. |
+| Standing  | This attack does 30 more damage.            |
+| Handstand | This attack does 30 more damage.            |
+| Back      | This attack does 30 more damage.            |
+| Down      | This attack does 30 more damage.            |
+| Landscape |                                             |
+
+![Submission](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)
 
 ### Moltres Cards
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1109,8 +1207,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1123,8 +1224,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1137,8 +1241,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1151,8 +1258,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1165,8 +1275,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1179,8 +1292,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1193,8 +1309,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1207,8 +1326,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1221,8 +1343,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1237,150 +1362,237 @@
 
 ### Articuno Cards
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+#### Ice Wing
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+| Name      | Ice Wing                                                                  |
+| --------- | ------------------------------------------------------------------------- |
+| Japanese  | アイスウイング                                                            |
+| Type      | Water                                                                     |
+| Code      | EBW01-021                                                                 |
+| Pokemon   | Articuno                                                                  |
+| Energy    | {W}{W}                                                                    |
+| Damage    | 10                                                                        |
+| Effect    |                                                                           |
+| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Handstand |                                                                           |
+| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Down      |                                                                           |
+| Landscape | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+![Ice Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+#### Frozen Blade ?
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+| Name      | Frozen Blade ?                                                  |
+| --------- | --------------------------------------------------------------- |
+| Japanese  | いてつくやいば                                                  |
+| Type      | Water                                                           |
+| Code      | EBW01-022                                                       |
+| Pokemon   | Articuno                                                        |
+| Energy    | {W}{W}{W}                                                       |
+| Damage    | 30                                                              |
+| Effect    |                                                                 |
+| Standing  | On your opponent's next turn, they cannot roll their Charakoro. |
+| Handstand |                                                                 |
+| Back      |                                                                 |
+| Down      |                                                                 |
+| Landscape | On your opponent's next turn, they cannot roll their Charakoro. |
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+![Frozen Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+#### Blizzard Storm ?
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+| Name      | Blizzard Storm ?                 |
+| --------- | -------------------------------- |
+| Japanese  | ブリザードストーム               |
+| Type      | Water                            |
+| Code      | EBW01-023                        |
+| Pokemon   | Articuno                         |
+| Energy    | {W}{W}{W}{W}                     |
+| Damage    | 30                               |
+| Effect    |                                  |
+| Standing  | This attack does 30 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 30 more damage. |
+| Down      |                                  |
+| Landscape | This attack does 30 more damage. |
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+#### Air Cutter
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+| Name      | Air Cutter                       |
+| --------- | -------------------------------- |
+| Japanese  | エアカッター                     |
+| Type      | Flying                           |
+| Code      | EBW01-024                        |
+| Pokemon   | Articuno                         |
+| Energy    | {Y}{C}{C}{C}                     |
+| Damage    | 40                               |
+| Effect    |                                  |
+| Standing  | This attack does 30 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 30 more damage. |
+| Down      |                                  |
+| Landscape |                                  |
+
+![Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
+
+#### Roost
+
+| Name      | Roost                                  |
+| --------- | -------------------------------------- |
+| Japanese  | はねやすめ                             |
+| Type      | Flying                                 |
+| Code      | EBW01-025                              |
+| Pokemon   | Articuno                               |
+| Energy    | {Y}{Y}                                 |
+| Damage    |                                        |
+| Effect    | Heal 20 damage from this Pokémon.      |
+| Standing  | Heal 20 more damage from this Pokémon. |
+| Handstand |                                        |
+| Back      |                                        |
+| Down      |                                        |
+| Landscape | Heal 20 more damage from this Pokémon. |
+
+![Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
+
+#### Freeze Dive ?
+
+| Name      | Freeze Dive ?                    |
+| --------- | -------------------------------- |
+| Japanese  | フリーズダイブ                   |
+| Type      | Water                            |
+| Code      | EBW01-026                        |
+| Pokemon   | Articuno                         |
+| Energy    | {W}                              |
+| Damage    | 10                               |
+| Effect    |                                  |
+| Standing  | This attack does 20 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 20 more damage. |
+| Down      |                                  |
+| Landscape |                                  |
+
+#### Ice Shot
+
+| Name      | Ice Shot                         |
+| --------- | -------------------------------- |
+| Japanese  | アイスショット                   |
+| Type      | Water                            |
+| Code      | EBW01-027                        |
+| Pokemon   | Articuno                         |
+| Energy    | {W}{W}                           |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 20 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Landscape | This attack does 20 more damage. |
+
+![Ice Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
+
+#### Cold Breath
+
+| Name      | Cold Breath                                                               |
+| --------- | ------------------------------------------------------------------------- |
+| Japanese  | コールドブレス                                                            |
+| Type      | Water                                                                     |
+| Code      | EBW01-028                                                                 |
+| Pokemon   | Articuno                                                                  |
+| Energy    | {W}{W}{W}                                                                 |
+| Damage    | 20                                                                        |
+| Effect    |                                                                           |
+| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
+| Handstand |                                                                           |
+| Back      |                                                                           |
+| Down      |                                                                           |
+| Landscape | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
+
+![Cold Breath](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard08.webp)
+
+#### Sheer Cold
+
+| Name      | Sheer Cold                                                                                                                |
+| --------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Japanese  | ぜったいれいど                                                                                                            |
+| Type      | Water                                                                                                                     |
+| Code      | EBW01-029                                                                                                                 |
+| Pokemon   | Articuno                                                                                                                  |
+| Energy    | {W}{W}{W}{W}                                                                                                              |
+| Damage    | 40                                                                                                                        |
+| Effect    |                                                                                                                           |
+| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. Additionally, they cannot roll their Charakoro. |
+| Handstand |                                                                                                                           |
+| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 2. Additionally, they cannot roll their Charakoro. |
+| Down      |                                                                                                                           |
+| Landscape |                                                                                                                           |
+
+![Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
+
+#### Fly
+
+| Name      | Fly                                                                              |
+| --------- | -------------------------------------------------------------------------------- |
+| Japanese  | そらをとぶ                                                                       |
+| Type      | Flying                                                                           |
+| Code      | EBW01-030                                                                        |
+| Pokemon   | Articuno                                                                         |
+| Energy    | {Y}{C}{C}                                                                        |
+| Damage    | 30                                                                               |
+| Effect    |                                                                                  |
+| Standing  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Handstand | This attack fails.                                                               |
+| Back      | This attack fails.                                                               |
+| Down      | This attack fails.                                                               |
+| Landscape | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+
+![Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
 
 ### Zapdos Cards
 
+#### Thunder Flash ?
+
+| Name      | Thunder Flash ?                  |
+| --------- | -------------------------------- |
+| Japanese  | でんじフラッシュ                 |
+| Type      | Electric                         |
+| Code      | EBW01-031                        |
+| Pokemon   | Zapdos                           |
+| Energy    | {L}{L}                           |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 30 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 30 more damage. |
+| Down      |                                  |
+| Landscape |                                  |
+
+![Thunder Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
+
+#### Thunder Shock
+
+| Name      | Thunder Shock                    |
+| --------- | -------------------------------- |
+| Japanese  | でんきショック                   |
+| Type      | Electric                         |
+| Code      | EBW01-032                        |
+| Pokemon   | Zapdos                           |
+| Energy    | {L}                              |
+| Damage    | 10                               |
+| Effect    |                                  |
+| Standing  | This attack does 10 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 10 more damage. |
+| Down      |                                  |
+| Landscape | This attack does 10 more damage. |
+
+![Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
+
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1393,8 +1605,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1407,8 +1622,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1421,8 +1639,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1435,8 +1656,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1449,8 +1673,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1463,8 +1690,11 @@
 | Down      |
 | Landscape |
 
+####
+
 | Name      |     |
 | --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1477,36 +1707,11 @@
 | Down      |
 | Landscape |
 
-| Name      |     |
-| --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
+####
 
 | Name      |     |
 | --------- | --- |
-| Type      |
-| Code      |
-| Pokemon   |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Landscape |
-
-| Name      |     |
-| --------- | --- |
+| Japanese  |
 | Type      |
 | Code      |
 | Pokemon   |
@@ -1525,6 +1730,7 @@
 
 | Name      | Rocky Tackle                                                                      |
 | --------- | --------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Fighting                                                                          |
 | Code      | EBW01-041                                                                         |
 | Pokemon   | Onix                                                                              |
@@ -1543,6 +1749,7 @@
 
 | Name      | Rock Throw                       |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Fighting                         |
 | Code      | EBW01-042                        |
 | Pokemon   | Onix                             |
@@ -1561,6 +1768,7 @@
 
 | Name      | Rock Wall                                                                         |
 | --------- | --------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Fighting                                                                          |
 | Code      | EBW01-043                                                                         |
 | Pokemon   | Onix                                                                              |
@@ -1579,6 +1787,7 @@
 
 | Name      | Hard Impact ?                                                  |
 | --------- | -------------------------------------------------------------- |
+| Japanese  | ハードインパクト                                               |
 | Type      | Fighting                                                       |
 | Code      | EBW01-044                                                      |
 | Pokemon   | Onix                                                           |
@@ -1597,17 +1806,18 @@
 
 | Name      | Gyro Ball                                                                                                    |
 | --------- | ------------------------------------------------------------------------------------------------------------ |
+| Japanese  | ジャイロボール                                                                                               |
 | Type      | Steel                                                                                                        |
 | Code      | EBW01-045                                                                                                    |
 | Pokemon   | Onix                                                                                                         |
 | Energy    | {M}{C}{C}                                                                                                    |
 | Damage    | 20                                                                                                           |
 | Effect    |                                                                                                              |
-| Standing  | Your opponet also rolls their charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
+| Standing  | Your opponet also rolls their Charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
 | Handstand |                                                                                                              |
-| Back      | Your opponet also rolls their charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
+| Back      | Your opponet also rolls their Charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
 | Down      |                                                                                                              |
-| Landscape | Your opponet also rolls their charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
+| Landscape | Your opponet also rolls their Charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
 
 ![Gyro Ball](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard05.webp)
 
@@ -1615,6 +1825,7 @@
 
 | Name      | Ram                              |
 | --------- | -------------------------------- |
+| Japanese  | ぶつかる                         |
 | Type      | Fighting                         |
 | Code      | EBW01-046                        |
 | Pokemon   | Onix                             |
@@ -1633,6 +1844,7 @@
 
 | Name      | Rock Slide                       |
 | --------- | -------------------------------- |
+| Japanese  | いわなだれ                       |
 | Type      | Fighting                         |
 | Code      | EBW01-047                        |
 | Pokemon   | Onix                             |
@@ -1651,6 +1863,7 @@
 
 | Name      | Wild Tackle                                 |
 | --------- | ------------------------------------------- |
+| Japanese  | ワイルドタックル                            |
 | Type      | Fighting                                    |
 | Code      | EBW01-048                                   |
 | Pokemon   | Onix                                        |
@@ -1669,6 +1882,7 @@
 
 | Name      | Rock Barrier ?                                                                    |
 | --------- | --------------------------------------------------------------------------------- |
+| Japanese  | がんせきバリア                                                                    |
 | Type      | Fighting                                                                          |
 | Code      | EBW01-049                                                                         |
 | Pokemon   | Onix                                                                              |
@@ -1687,6 +1901,7 @@
 
 | Name      | Iron Tail                                                                         |
 | --------- | --------------------------------------------------------------------------------- |
+| Japanese  | アイアンテール                                                                    |
 | Type      | Steel                                                                             |
 | Code      | EBW01-050                                                                         |
 | Pokemon   | Onix                                                                              |
@@ -1705,6 +1920,7 @@
 
 | Name      | Poison Gas                                                                |
 | --------- | ------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Dark                                                                      |
 | Code      | EBW01-051                                                                 |
 | Pokemon   | Grimer                                                                    |
@@ -1723,6 +1939,7 @@
 
 | Name      | Nasty Goo Toss ?                 |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Dark                             |
 | Code      | EBW01-052                        |
 | Pokemon   | Grimer                           |
@@ -1741,6 +1958,7 @@
 
 | Name      | Toxic Heal ?                                                                                                   |
 | --------- | -------------------------------------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Dark                                                                                                           |
 | Code      | EBW01-053                                                                                                      |
 | Pokemon   | Grimer                                                                                                         |
@@ -1759,6 +1977,7 @@
 
 | Name      | Surround With Sludge ?                                                                   |
 | --------- | ---------------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Dark                                                                                     |
 | Code      | EBW01-054                                                                                |
 | Pokemon   | Grimer                                                                                   |
@@ -1777,6 +1996,7 @@
 
 | Name      | Venom Punch ?                    |
 | --------- | -------------------------------- |
+| Japanese  |
 | Type      | Dark                             |
 | Code      | EBW01-055                        |
 | Pokemon   | Grimer                           |
@@ -1795,17 +2015,18 @@
 
 | Name      | Venom Slip ?                                                                                                                 |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Dark                                                                                                                         |
 | Code      | EBW01-057                                                                                                                    |
 | Pokemon   | Grimer                                                                                                                       |
 | Energy    | {D}{D}                                                                                                                       |
 | Damage    | 20                                                                                                                           |
 | Effect    |                                                                                                                              |
-| Standing  | Your opponent also rolls their charakoro. If a [Down], [Handstand] or [Landscape] comes up, this attack does 20 more damage. |
+| Standing  | Your opponent also rolls their Charakoro. If a [Down], [Handstand] or [Landscape] comes up, this attack does 20 more damage. |
 | Handstand |                                                                                                                              |
-| Back      | Your opponent also rolls their charakoro. If a [Down], [Handstand] or [Landscape] comes up, this attack does 20 more damage. |
+| Back      | Your opponent also rolls their Charakoro. If a [Down], [Handstand] or [Landscape] comes up, this attack does 20 more damage. |
 | Down      |                                                                                                                              |
-| Landscape | Your opponent also rolls their charakoro. If a [Down], [Handstand] or [Landscape] comes up, this attack does 20 more damage. |
+| Landscape | Your opponent also rolls their Charakoro. If a [Down], [Handstand] or [Landscape] comes up, this attack does 20 more damage. |
 
 ![Venom Slip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
 
@@ -1813,6 +2034,7 @@
 
 | Name      | Toxic Blast ?                                                                                                 |
 | --------- | ------------------------------------------------------------------------------------------------------------- |
+| Japanese  |
 | Type      | Dark                                                                                                          |
 | Code      | EBW01-058                                                                                                     |
 | Pokemon   | Grimer                                                                                                        |
@@ -1831,6 +2053,7 @@
 
 | Name      | Sludge Tackle ?                             |
 | --------- | ------------------------------------------- |
+| Japanese  |
 | Type      | Dark                                        |
 | Code      | EBW01-059                                   |
 | Pokemon   | Grimer                                      |
@@ -1849,6 +2072,7 @@
 
 | Name      | Harassment Venom ?                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------ |
+| Japanese  |
 | Type      | Dark                                                                                             |
 | Code      | EBW01-060                                                                                        |
 | Pokemon   | Grimer                                                                                           |
