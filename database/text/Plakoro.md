@@ -393,7 +393,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {R}{R}{R}{R}                     |
 | Damage    | 30                               |
 | Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
+| Standing  | This attack does 30 more damage. |
 | Handstand |                                  |
 | Back      | This attack does 30 more damage. |
 | Down      | This attack does 30 more damage. |
