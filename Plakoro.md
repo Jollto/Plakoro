@@ -284,7 +284,6 @@
 #### Giga Drain
 
 | Name      | Giga Drain                        |
-| Japanese  |
 | --------- | --------------------------------- |
 | Japanese  |
 | Type      | Grass                             |
@@ -304,7 +303,6 @@
 #### Acid Spray
 
 | Name      | Acid Spray                       |
-| Japanese  |
 | --------- | -------------------------------- |
 | Japanese  |
 | Type      | Dark                             |
