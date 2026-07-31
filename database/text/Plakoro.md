@@ -618,7 +618,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Thunder Shock                    |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | でんきショック                   |
 | Type      | Electric                         |
 | Code      | STW04-002                        |
 | Pokemon   | Pikachu                          |
@@ -637,7 +637,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Electric Rush ?                                                    |
 | --------- | ------------------------------------------------------------------ |
-| Japanese  |
+| Japanese  | エレキラッシュ                                                     |
 | Type      | Electric                                                           |
 | Code      | STW04-003                                                          |
 | Pokemon   | Pikachu                                                            |
@@ -656,7 +656,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Thunderbolt                                                    |
 | --------- | -------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | 10まんボルト                                                   |
 | Type      | Electric                                                       |
 | Code      | STW04-004                                                      |
 | Pokemon   | Pikachu                                                        |
@@ -675,7 +675,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Thunder                          |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | かみなり                         |
 | Type      | Electric                         |
 | Code      | STW04-005                        |
 | Pokemon   | Pikachu                          |
@@ -694,7 +694,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Volt Tackle                                 |
 | --------- | ------------------------------------------- |
-| Japanese  |
+| Japanese  | ボルテッカー                                |
 | Type      | Electric                                    |
 | Code      | STW04-006                                   |
 | Pokemon   | Pikachu                                     |
@@ -713,7 +713,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Iron Tail                                                                         |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | アイアンテール                                                                    |
 | Type      | Steel                                                                             |
 | Code      | STW04-007                                                                         |
 | Pokemon   | Pikachu                                                                           |
@@ -1704,39 +1704,43 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 ![Discharge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
 
-####
+#### Thunder Chain ?
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |
-| Type      |
-| Code      | EBW01-039 |
-| Pokemon   | Zapdos    |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Sideways  |
+| Name      | Thunder Chain ?                                                                          |
+| --------- | ---------------------------------------------------------------------------------------- |
+| Japanese  | サンダーチェイン                                                                         |
+| Type      | Electric                                                                                 |
+| Code      | EBW01-039                                                                                |
+| Pokemon   | Zapdos                                                                                   |
+| Energy    | {L}{L}{L}{L}                                                                             |
+| Damage    | 30                                                                                       |
+| Effect    |                                                                                          |
+| Standing  | This attack does 20 more damage. Reroll your Charakoro (Can be repeated until it fails.) |
+| Handstand |                                                                                          |
+| Back      | This attack does 20 more damage. Reroll your Charakoro (Can be repeated until it fails.) |
+| Down      | This attack does 20 more damage. Reroll your Charakoro (Can be repeated until it fails.) |
+| Sideways  |                                                                                          |
 
-####
+![Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |
-| Type      |
-| Code      | EBW01-040 |
-| Pokemon   | Zapdos    |
-| Energy    |
-| Damage    |
-| Effect    |
-| Standing  |
-| Handstand |
-| Back      |
-| Down      |
-| Sideways  |
+#### Fly
+
+| Name      | Fly                                                                              |
+| --------- | -------------------------------------------------------------------------------- |
+| Japanese  | そらをとぶ                                                                       |
+| Type      | Flying                                                                           |
+| Code      | EBW01-040                                                                        |
+| Pokemon   | Zapdos                                                                           |
+| Energy    | {Y}{C}{C}                                                                        |
+| Damage    | 30                                                                               |
+| Effect    |                                                                                  |
+| Standing  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Handstand | This attack fails.                                                               |
+| Back      | This attack fails.                                                               |
+| Down      | This attack fails.                                                               |
+| Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+
+![Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
 
 ### Onix Cards
 
@@ -1744,7 +1748,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Rocky Tackle                                                                      |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | がんせきタックル                                                                  |
 | Type      | Fighting                                                                          |
 | Code      | EBW01-041                                                                         |
 | Pokemon   | Onix                                                                              |
@@ -1763,7 +1767,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Rock Throw                       |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | いわおとし                       |
 | Type      | Fighting                         |
 | Code      | EBW01-042                        |
 | Pokemon   | Onix                             |
@@ -1782,7 +1786,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Rock Wall                                                                         |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | ロックウォール                                                                    |
 | Type      | Fighting                                                                          |
 | Code      | EBW01-043                                                                         |
 | Pokemon   | Onix                                                                              |
@@ -1934,7 +1938,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Poison Gas                                                                |
 | --------- | ------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | どくガス                                                                  |
 | Type      | Dark                                                                      |
 | Code      | EBW01-051                                                                 |
 | Pokemon   | Grimer                                                                    |
@@ -1949,11 +1953,11 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 ![Poison Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard01.webp)
 
-#### Nasty Goo Toss ?
+#### Sludge Toss ?
 
-| Name      | Nasty Goo Toss ?                 |
+| Name      | Sludge Toss ?                    |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | ベトベトなげ                     |
 | Type      | Dark                             |
 | Code      | EBW01-052                        |
 | Pokemon   | Grimer                           |
@@ -1966,13 +1970,13 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Down      |                                  |
 | Sideways  | This attack does 20 more damage. |
 
-![Nasty Goo Toss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard02.webp)
+![Sludge Toss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard02.webp)
 
 #### Toxic Heal ?
 
 | Name      | Toxic Heal ?                                                                                                   |
 | --------- | -------------------------------------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | どくどくヒール                                                                                                 |
 | Type      | Dark                                                                                                           |
 | Code      | EBW01-053                                                                                                      |
 | Pokemon   | Grimer                                                                                                         |
@@ -1991,7 +1995,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Surround With Sludge ?                                                                   |
 | --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | ヘドロでかこむ                                                                           |
 | Type      | Dark                                                                                     |
 | Code      | EBW01-054                                                                                |
 | Pokemon   | Grimer                                                                                   |
@@ -2010,7 +2014,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Venom Punch ?                    |
 | --------- | -------------------------------- |
-| Japanese  |
+| Japanese  | ベノムパンチ                     |
 | Type      | Dark                             |
 | Code      | EBW01-055                        |
 | Pokemon   | Grimer                           |
@@ -2029,7 +2033,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Venom Slip ?                                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | ベノムスリップ                                                                                                              |
 | Type      | Dark                                                                                                                        |
 | Code      | EBW01-057                                                                                                                   |
 | Pokemon   | Grimer                                                                                                                      |
@@ -2048,7 +2052,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Toxic Blast ?                                                                                                 |
 | --------- | ------------------------------------------------------------------------------------------------------------- |
-| Japanese  |
+| Japanese  | どくどくボンバー                                                                                              |
 | Type      | Dark                                                                                                          |
 | Code      | EBW01-058                                                                                                     |
 | Pokemon   | Grimer                                                                                                        |
@@ -2067,7 +2071,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Sludge Tackle ?                             |
 | --------- | ------------------------------------------- |
-| Japanese  |
+| Japanese  | ヘドロタックル                              |
 | Type      | Dark                                        |
 | Code      | EBW01-059                                   |
 | Pokemon   | Grimer                                      |
@@ -2086,7 +2090,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 | Name      | Harassment Venom ?                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------ |
-| Japanese  |
+| Japanese  | いやがらせベノム                                                                                 |
 | Type      | Dark                                                                                             |
 | Code      | EBW01-060                                                                                        |
 | Pokemon   | Grimer                                                                                           |
