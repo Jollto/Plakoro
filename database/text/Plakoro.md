@@ -22,13 +22,13 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 ## Orientations
 
-| Orientation |                                                                                                          Symbol                                                                                                          |
-| :---------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Standing   |                                                         ![Standing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                          |
-|  Handstand  |                                                        ![Handstand](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                         |
-|    Back     |                                                             ![Back](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                              |
-|    Down     |                                                             ![Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                              |
-|  Sideways   | ![Sideways01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![Sideways02](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |
+| Orientation |   Tag    |                                                                                                          Symbol                                                                                                          |
+| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Standing   |   {st}   |                                                         ![Standing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                          |
+|  Handstand  |   {hs}   |                                                        ![Handstand](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                         |
+|    Back     |   {ba}   |                                                             ![Back](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                              |
+|    Down     |   {do}   |                                                             ![Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                              |
+|  Sideways   | {s1}{s2} | ![Sideways01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![Sideways02](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |
 
 ## CharaCard
 
@@ -403,20 +403,20 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 #### Flare Storm
 
-| Name      | Flare Storm                                               |
-| --------- | --------------------------------------------------------- |
-| Japanese  | フレアストーム                                            |
-| Type      | Fire                                                      |
-| Code      | STW02-005                                                 |
-| Pokémon   | Charmander                                                |
-| Energy    | {C}{C}{C}{C}{C}                                           |
-| Damage    | 20                                                        |
-| Effect    |                                                           |
-| Standing  | This attack does 10 damage for each fire energy produced. |
-| Handstand |                                                           |
-| Back      |                                                           |
-| Down      |                                                           |
-| Sideways  | This attack does 10 damage for each fire energy produced. |
+| Name      | Flare Storm                                              |
+| --------- | -------------------------------------------------------- |
+| Japanese  | フレアストーム                                           |
+| Type      | Fire                                                     |
+| Code      | STW02-005                                                |
+| Pokémon   | Charmander                                               |
+| Energy    | {C}{C}{C}{C}{C}                                          |
+| Damage    | 20                                                       |
+| Effect    |                                                          |
+| Standing  | This attack does 10 damage for each {F} energy produced. |
+| Handstand |                                                          |
+| Back      |                                                          |
+| Down      |                                                          |
+| Sideways  | This attack does 10 damage for each {F} energy produced. |
 
 ![Flare Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 
@@ -1842,20 +1842,20 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 #### Gyro Ball
 
-| Name      | Gyro Ball                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------------ |
-| Japanese  | ジャイロボール                                                                                               |
-| Type      | Steel                                                                                                        |
-| Code      | EBW01-045                                                                                                    |
-| Pokémon   | Onix                                                                                                         |
-| Energy    | {M}{C}{C}                                                                                                    |
-| Damage    | 20                                                                                                           |
-| Effect    |                                                                                                              |
-| Standing  | Your opponet also rolls their Charakoro. If a [Handstand], [Down] comes up, this attack does 60 more damage. |
-| Handstand |                                                                                                              |
-| Back      | Your opponet also rolls their Charakoro. If a [Handstand], [Down] comes up, this attack does 60 more damage. |
-| Down      |                                                                                                              |
-| Sideways  | Your opponet also rolls their Charakoro. If a [Handstand], [Down] comes up, this attack does 60 more damage. |
+| Name      | Gyro Ball                                                                               |
+| --------- | --------------------------------------------------------------------------------------- |
+| Japanese  | ジャイロボール                                                                          |
+| Type      | Steel                                                                                   |
+| Code      | EBW01-045                                                                               |
+| Pokémon   | Onix                                                                                    |
+| Energy    | {M}{C}{C}                                                                               |
+| Damage    | 20                                                                                      |
+| Effect    |                                                                                         |
+| Standing  | Your opponent also rolls their Charakoro. On {hs}{do}, this attack does 60 more damage. |
+| Handstand |                                                                                         |
+| Back      | Your opponent also rolls their Charakoro. On {hs}{do}, this attack does 60 more damage. |
+| Down      |                                                                                         |
+| Sideways  | Your opponent also rolls their Charakoro. On {hs}{do}, this attack does 60 more damage. |
 
 ![Gyro Ball](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard05.webp)
 
@@ -2051,20 +2051,20 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 #### Venom Slip ?
 
-| Name      | Venom Slip ?                                                                                                                |
-| --------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ベノムスリップ                                                                                                              |
-| Type      | Dark                                                                                                                        |
-| Code      | EBW01-057                                                                                                                   |
-| Pokémon   | Grimer                                                                                                                      |
-| Energy    | {D}{D}                                                                                                                      |
-| Damage    | 20                                                                                                                          |
-| Effect    |                                                                                                                             |
-| Standing  | Your opponent also rolls their Charakoro. If a [Handstand], [Down] or [Sideways] comes up, this attack does 20 more damage. |
-| Handstand |                                                                                                                             |
-| Back      | Your opponent also rolls their Charakoro. If a [Handstand], [Down] or [Sideways] comes up, this attack does 20 more damage. |
-| Down      |                                                                                                                             |
-| Sideways  | Your opponent also rolls their Charakoro. If a [Handstand], [Down] or [Sideways] comes up, this attack does 20 more damage. |
+| Name      | Venom Slip ?                                                                                    |
+| --------- | ----------------------------------------------------------------------------------------------- |
+| Japanese  | ベノムスリップ                                                                                  |
+| Type      | Dark                                                                                            |
+| Code      | EBW01-057                                                                                       |
+| Pokémon   | Grimer                                                                                          |
+| Energy    | {D}{D}                                                                                          |
+| Damage    | 20                                                                                              |
+| Effect    |                                                                                                 |
+| Standing  | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| Handstand |                                                                                                 |
+| Back      | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| Down      |                                                                                                 |
+| Sideways  | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
 
 ![Venom Slip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
 
