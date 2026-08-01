@@ -1534,20 +1534,20 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 #### Sheer Cold
 
-| Name      | Sheer Cold                                                                                                                |
-| --------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ぜったいれいど                                                                                                            |
-| Type      | Water                                                                                                                     |
-| Code      | EBW01-029                                                                                                                 |
-| Pokémon   | Articuno                                                                                                                  |
-| Energy    | {W}{W}{W}{W}                                                                                                              |
-| Damage    | 40                                                                                                                        |
-| Effect    |                                                                                                                           |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. Additionally, they cannot roll their Charakoro. |
-| Handstand |                                                                                                                           |
-| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 2. Additionally, they cannot roll their Charakoro. |
-| Down      |                                                                                                                           |
-| Sideways  |                                                                                                                           |
+| Name      | Sheer Cold                                                                                                  |
+| --------- | ----------------------------------------------------------------------------------------------------------- |
+| Japanese  | ぜったいれいど                                                                                              |
+| Type      | Water                                                                                                       |
+| Code      | EBW01-029                                                                                                   |
+| Pokémon   | Articuno                                                                                                    |
+| Energy    | {W}{W}{W}{W}                                                                                                |
+| Damage    | 40                                                                                                          |
+| Effect    |                                                                                                             |
+| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
+| Handstand |                                                                                                             |
+| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
+| Down      |                                                                                                             |
+| Sideways  |                                                                                                             |
 
 ![Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
 
