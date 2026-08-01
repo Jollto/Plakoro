@@ -412,11 +412,11 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {C}{C}{C}{C}{C}                                          |
 | Damage    | 20                                                       |
 | Effect    |                                                          |
-| Standing  | This attack does 10 damage for each {F} energy produced. |
+| Standing  | This attack does 10 damage for each {R} energy produced. |
 | Handstand |                                                          |
 | Back      |                                                          |
 | Down      |                                                          |
-| Sideways  | This attack does 10 damage for each {F} energy produced. |
+| Sideways  | This attack does 10 damage for each {R} energy produced. |
 
 ![Flare Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 
