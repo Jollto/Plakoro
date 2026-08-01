@@ -1813,11 +1813,11 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {F}{F}{F}                                                                         |
 | Damage    | 30                                                                                |
 | Effect    |                                                                                   |
-| Standing  | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
+| Standing  | During your opponent's next turn, this Pokémon takes 30 less damage from attacks. |
 | Handstand |                                                                                   |
-| Back      | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
+| Back      | During your opponent's next turn, this Pokémon takes 30 less damage from attacks. |
 | Down      |                                                                                   |
-| Sideways  | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
+| Sideways  | During your opponent's next turn, this Pokémon takes 30 less damage from attacks. |
 
 ![Rock Wall](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard03.webp)
 
@@ -1851,11 +1851,11 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {M}{C}{C}                                                                                                    |
 | Damage    | 20                                                                                                           |
 | Effect    |                                                                                                              |
-| Standing  | Your opponet also rolls their Charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
+| Standing  | Your opponet also rolls their Charakoro. If a [Handstand], [Down] comes up, this attack does 60 more damage. |
 | Handstand |                                                                                                              |
-| Back      | Your opponet also rolls their Charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
+| Back      | Your opponet also rolls their Charakoro. If a [Handstand], [Down] comes up, this attack does 60 more damage. |
 | Down      |                                                                                                              |
-| Sideways  | Your opponet also rolls their Charakoro. If a [Down], [Handstand] comes up, this attack does 60 more damage. |
+| Sideways  | Your opponet also rolls their Charakoro. If a [Handstand], [Down] comes up, this attack does 60 more damage. |
 
 ![Gyro Ball](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard05.webp)
 
@@ -1950,7 +1950,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Handstand |                                                                                   |
 | Back      |                                                                                   |
 | Down      |                                                                                   |
-| Sideways  | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
+| Sideways  | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
 
 ### Grimer Cards
 
@@ -2060,11 +2060,11 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {D}{D}                                                                                                                      |
 | Damage    | 20                                                                                                                          |
 | Effect    |                                                                                                                             |
-| Standing  | Your opponent also rolls their Charakoro. If a [Down], [Handstand] or [Sideways] comes up, this attack does 20 more damage. |
+| Standing  | Your opponent also rolls their Charakoro. If a [Handstand], [Down] or [Sideways] comes up, this attack does 20 more damage. |
 | Handstand |                                                                                                                             |
-| Back      | Your opponent also rolls their Charakoro. If a [Down], [Handstand] or [Sideways] comes up, this attack does 20 more damage. |
+| Back      | Your opponent also rolls their Charakoro. If a [Handstand], [Down] or [Sideways] comes up, this attack does 20 more damage. |
 | Down      |                                                                                                                             |
-| Sideways  | Your opponent also rolls their Charakoro. If a [Down], [Handstand] or [Sideways] comes up, this attack does 20 more damage. |
+| Sideways  | Your opponent also rolls their Charakoro. If a [Handstand], [Down] or [Sideways] comes up, this attack does 20 more damage. |
 
 ![Venom Slip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
 
