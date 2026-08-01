@@ -178,7 +178,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  |
 | Type      |
 | Code      |
-| Pokemon   |
+| Pokémon   |
 | Energy    |
 | Damage    |
 | Effect    |
@@ -197,7 +197,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | つるのムチ                       |
 | Type      | Grass                            |
 | Code      | STW01-001                        |
-| Pokemon   | Bulbasaur                        |
+| Pokémon   | Bulbasaur                        |
 | Energy    | {G}                              |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -216,7 +216,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | はっぱカッター                   |
 | Type      | Grass                            |
 | Code      | STW01-002                        |
-| Pokemon   | Bulbasaur                        |
+| Pokémon   | Bulbasaur                        |
 | Energy    | {G}{G}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -235,7 +235,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | やどりぎのタネ                                                                                                                             |
 | Type      | Grass                                                                                                                                      |
 | Code      | STW01-003                                                                                                                                  |
-| Pokemon   | Bulbasaur                                                                                                                                  |
+| Pokémon   | Bulbasaur                                                                                                                                  |
 | Energy    | {G}{G}                                                                                                                                     |
 | Damage    | 10                                                                                                                                         |
 | Effect    |                                                                                                                                            |
@@ -254,7 +254,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | くさむすび                                                                               |
 | Type      | Grass                                                                                    |
 | Code      | STW01-004                                                                                |
-| Pokemon   | Bulbasaur                                                                                |
+| Pokémon   | Bulbasaur                                                                                |
 | Energy    | {G}{G}{G}                                                                                |
 | Damage    | 30                                                                                       |
 | Effect    |                                                                                          |
@@ -273,7 +273,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | とつげき                                    |
 | Type      | Grass                                       |
 | Code      | STW01-005                                   |
-| Pokemon   | Bulbasaur                                   |
+| Pokémon   | Bulbasaur                                   |
 | Energy    | {G}{G}{G}                                   |
 | Damage    | 10                                          |
 | Effect    |                                             |
@@ -292,7 +292,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ギガドレイン                      |
 | Type      | Grass                             |
 | Code      | STW01-006                         |
-| Pokemon   | Bulbasaur                         |
+| Pokémon   | Bulbasaur                         |
 | Energy    | {G}{G}{G}{G}                      |
 | Damage    | 40                                |
 | Effect    |                                   |
@@ -311,7 +311,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | アシッドボム                     |
 | Type      | Dark                             |
 | Code      | STW01-007                        |
-| Pokemon   | Bulbasaur                        |
+| Pokémon   | Bulbasaur                        |
 | Energy    | {D}{C}{C}                        |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -332,7 +332,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ひのこ                           |
 | Type      | Fire                             |
 | Code      | STW02-001                        |
-| Pokemon   | Charmander                       |
+| Pokémon   | Charmander                       |
 | Energy    | {R}{R}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -351,7 +351,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ヒートアップ                                                     |
 | Type      | Fire                                                             |
 | Code      | STW02-002                                                        |
-| Pokemon   | Charmander                                                       |
+| Pokémon   | Charmander                                                       |
 | Energy    | {R}{R}                                                           |
 | Damage    | 10                                                               |
 | Effect    |                                                                  |
@@ -370,7 +370,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | かえんほうしゃ                                                 |
 | Type      | Fire                                                           |
 | Code      | STW02-003                                                      |
-| Pokemon   | Charmander                                                     |
+| Pokémon   | Charmander                                                     |
 | Energy    | {R}{R}{R}                                                      |
 | Damage    | 40                                                             |
 | Effect    |                                                                |
@@ -389,7 +389,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ほのおのキバ                     |
 | Type      | Fire                             |
 | Code      | STW02-004                        |
-| Pokemon   | Charmander                       |
+| Pokémon   | Charmander                       |
 | Energy    | {R}{R}{R}{R}                     |
 | Damage    | 30                               |
 | Effect    |                                  |
@@ -408,7 +408,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | フレアストーム                                            |
 | Type      | Fire                                                      |
 | Code      | STW02-005                                                 |
-| Pokemon   | Charmander                                                |
+| Pokémon   | Charmander                                                |
 | Energy    | {C}{C}{C}{C}{C}                                           |
 | Damage    | 20                                                        |
 | Effect    |                                                           |
@@ -427,7 +427,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | かみなりパンチ                   |
 | Type      | Electric                         |
 | Code      | STW02-006                        |
-| Pokemon   | Charmander                       |
+| Pokémon   | Charmander                       |
 | Energy    | {L}{C}{C}                        |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -446,7 +446,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | メタルクロー                     |
 | Type      | Steel                            |
 | Code      | STW02-007                        |
-| Pokemon   | Charmander                       |
+| Pokémon   | Charmander                       |
 | Energy    | {M}{C}{C}                        |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -467,7 +467,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | みずでっぽう                     |
 | Type      | Water                            |
 | Code      | STW03-001                        |
-| Pokemon   | Squirtle                         |
+| Pokémon   | Squirtle                         |
 | Energy    | {W}                              |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -486,7 +486,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | からにこもる                                                                      |
 | Type      | Water                                                                             |
 | Code      | STW03-002                                                                         |
-| Pokemon   | Squirtle                                                                          |
+| Pokémon   | Squirtle                                                                          |
 | Energy    | {W}                                                                               |
 | Damage    |                                                                                   |
 | Effect    | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
@@ -505,7 +505,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | みずのはどう                     |
 | Type      | Water                            |
 | Code      | STW03-003                        |
-| Pokemon   | Squirtle                         |
+| Pokémon   | Squirtle                         |
 | Energy    | {W}{W}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -524,7 +524,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | シェルアタック                                                                    |
 | Type      | Water                                                                             |
 | Code      | STW03-004                                                                         |
-| Pokemon   | Squirtle                                                                          |
+| Pokémon   | Squirtle                                                                          |
 | Energy    | {W}{W}{W}                                                                         |
 | Damage    | 30                                                                                |
 | Effect    |                                                                                   |
@@ -543,7 +543,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | バブルこうせん                                                            |
 | Type      | Water                                                                     |
 | Code      | STW03-005                                                                 |
-| Pokemon   | Squirtle                                                                  |
+| Pokémon   | Squirtle                                                                  |
 | Energy    | {W}{W}{W}                                                                 |
 | Damage    | 30                                                                        |
 | Effect    |                                                                           |
@@ -562,7 +562,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ハイドロアンガー                                                              |
 | Type      | Water                                                                         |
 | Code      | STW03-006                                                                     |
-| Pokemon   | Squirtle                                                                      |
+| Pokémon   | Squirtle                                                                      |
 | Energy    | {W}{W}{W}{W}                                                                  |
 | Damage    | 40                                                                            |
 | Effect    |                                                                               |
@@ -581,7 +581,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | マッドショット                   |
 | Type      | Fighting                         |
 | Code      | STW03-007                        |
-| Pokemon   | Squirtle                         |
+| Pokémon   | Squirtle                         |
 | Energy    | {F}{C}{C}{C}                     |
 | Damage    | 30                               |
 | Effect    |                                  |
@@ -602,7 +602,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | かじる                           |
 | Type      | Electric                         |
 | Code      | STW04-001                        |
-| Pokemon   | Pikachu                          |
+| Pokémon   | Pikachu                          |
 | Energy    | {L}                              |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -621,7 +621,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | でんきショック                   |
 | Type      | Electric                         |
 | Code      | STW04-002                        |
-| Pokemon   | Pikachu                          |
+| Pokémon   | Pikachu                          |
 | Energy    | {L}{L}                           |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -640,7 +640,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | エレキラッシュ                                                     |
 | Type      | Electric                                                           |
 | Code      | STW04-003                                                          |
-| Pokemon   | Pikachu                                                            |
+| Pokémon   | Pikachu                                                            |
 | Energy    | {L}{L}                                                             |
 | Damage    | 20                                                                 |
 | Effect    | This attack's damage isn't affected by Weakness                    |
@@ -659,7 +659,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | 10まんボルト                                                   |
 | Type      | Electric                                                       |
 | Code      | STW04-004                                                      |
-| Pokemon   | Pikachu                                                        |
+| Pokémon   | Pikachu                                                        |
 | Energy    | {L}{L}{L}                                                      |
 | Damage    | 30                                                             |
 | Effect    |                                                                |
@@ -678,7 +678,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | かみなり                         |
 | Type      | Electric                         |
 | Code      | STW04-005                        |
-| Pokemon   | Pikachu                          |
+| Pokémon   | Pikachu                          |
 | Energy    | {L}{L}{L}                        |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -697,7 +697,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ボルテッカー                                |
 | Type      | Electric                                    |
 | Code      | STW04-006                                   |
-| Pokemon   | Pikachu                                     |
+| Pokémon   | Pikachu                                     |
 | Energy    | {L}{L}{L}{L}                                |
 | Damage    | 40                                          |
 | Effect    | This Pokémon also does 30 damage to itself. |
@@ -716,7 +716,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | アイアンテール                                                                    |
 | Type      | Steel                                                                             |
 | Code      | STW04-007                                                                         |
-| Pokemon   | Pikachu                                                                           |
+| Pokémon   | Pikachu                                                                           |
 | Energy    | {M}                                                                               |
 | Damage    | 20                                                                                |
 | Effect    |                                                                                   |
@@ -737,7 +737,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | しっぽではたく                   |
 | Type      | Normal                           |
 | Code      | STW05-001                        |
-| Pokemon   | Eevee                            |
+| Pokémon   | Eevee                            |
 | Energy    | {Y}                              |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -756,7 +756,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | たいあたり                       |
 | Type      | Normal                           |
 | Code      | STW05-002                        |
-| Pokemon   | Eevee                            |
+| Pokémon   | Eevee                            |
 | Energy    | {Y}{Y}                           |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -775,7 +775,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | とっしん                                    |
 | Type      | Normal                                      |
 | Code      | STW05-003                                   |
-| Pokemon   | Eevee                                       |
+| Pokémon   | Eevee                                       |
 | Energy    | {Y}{Y}                                      |
 | Damage    | 30                                          |
 | Effect    |                                             |
@@ -794,7 +794,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | はねまわる      |
 | Type      | Normal          |
 | Code      | STW05-004       |
-| Pokemon   | Eevee           |
+| Pokémon   | Eevee           |
 | Energy    | {Y}{Y}{Y}       |
 | Damage    |                 |
 | Effect    |                 |
@@ -813,7 +813,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ぜんりょくダッシュ               |
 | Type      | Normal                           |
 | Code      | STW05-005                        |
-| Pokemon   | Eevee                            |
+| Pokémon   | Eevee                            |
 | Energy    | {C}{C}{C}{C}{C}                  |
 | Damage    | 40                               |
 | Effect    |                                  |
@@ -832,7 +832,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | あまえる                                                                  |
 | Type      | Psychic                                                                   |
 | Code      | STW05-006                                                                 |
-| Pokemon   | Eevee                                                                     |
+| Pokémon   | Eevee                                                                     |
 | Energy    | {P}                                                                       |
 | Damage    | 20                                                                        |
 | Effect    |                                                                           |
@@ -851,7 +851,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | かみつく                         |
 | Type      | Dark                             |
 | Code      | STW05-007                        |
-| Pokemon   | Eevee                            |
+| Pokémon   | Eevee                            |
 | Energy    | {D}{C}{C}                        |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -872,7 +872,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  |
 | Type      | Psychic                          |
 | Code      | STW06-001                        |
-| Pokemon   | Mew                              |
+| Pokémon   | Mew                              |
 | Energy    | {P}                              |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -891,7 +891,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  |
 | Type      | Psychic                          |
 | Code      | STW06-002                        |
-| Pokemon   | Mew                              |
+| Pokémon   | Mew                              |
 | Energy    | {P}{P}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -910,7 +910,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  |
 | Type      | Psychic                                                                           |
 | Code      | STW06-003                                                                         |
-| Pokemon   | Mew                                                                               |
+| Pokémon   | Mew                                                                               |
 | Energy    | {P}{P}                                                                            |
 | Damage    |                                                                                   |
 | Effect    | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
@@ -929,7 +929,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  |
 | Type      | Psychic                                                                                  |
 | Code      | STW06-004                                                                                |
-| Pokemon   | Mew                                                                                      |
+| Pokémon   | Mew                                                                                      |
 | Energy    | {P}{P}                                                                                   |
 | Damage    | 20                                                                                       |
 | Effect    |                                                                                          |
@@ -948,7 +948,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  |
 | Type      | Psychic                          |
 | Code      | STW06-005                        |
-| Pokemon   | Mew                              |
+| Pokémon   | Mew                              |
 | Energy    | {P}{P}{P}                        |
 | Damage    | 30                               |
 | Effect    |                                  |
@@ -967,7 +967,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  |
 | Type      | Psychic                                                                                           |
 | Code      | STW06-006                                                                                         |
-| Pokemon   | Mew                                                                                               |
+| Pokémon   | Mew                                                                                               |
 | Energy    | {P}{P}{P}                                                                                         |
 | Damage    | 20                                                                                                |
 | Effect    |                                                                                                   |
@@ -986,7 +986,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  |
 | Type      | Psychic                                                                                                                                    |
 | Code      | STW06-007                                                                                                                                  |
-| Pokemon   | Mew                                                                                                                                        |
+| Pokémon   | Mew                                                                                                                                        |
 | Energy    | {P}{P}{P}{P}                                                                                                                               |
 | Damage    | 20                                                                                                                                         |
 | Effect    | This move does damage equal to the damage of the last move selected by your opponent. (Ignore any Charakoro effects of the selected move.) |
@@ -1007,7 +1007,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | しゅうちゅう                                                     |
 | Type      | Grass                                                            |
 | Code      | EBW01-001                                                        |
-| Pokemon   | Pinsir                                                           |
+| Pokémon   | Pinsir                                                           |
 | Energy    | {G}                                                              |
 | Damage    |                                                                  |
 | Effect    |                                                                  |
@@ -1026,10 +1026,10 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | たえる                                                                            |
 | Type      | Grass                                                                             |
 | Code      | EBW01-002                                                                         |
-| Pokemon   | Pinsir                                                                            |
+| Pokémon   | Pinsir                                                                            |
 | Energy    | {G}{G}                                                                            |
 | Damage    |                                                                                   |
-| Effect    | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
+| Effect    | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | Standing  | Reduce damage taken by an additional 20.                                          |
 | Handstand |                                                                                   |
 | Back      | Reduce damage taken by an additional 20.                                          |
@@ -1045,7 +1045,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | つのでたたく                     |
 | Type      | Grass                            |
 | Code      | EBW01-003                        |
-| Pokemon   | Pinsir                           |
+| Pokémon   | Pinsir                           |
 | Energy    | {G}{G}{G}                        |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1064,7 +1064,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ハサミギロチン               |
 | Type      | Normal                       |
 | Code      | EBW01-004                    |
-| Pokemon   | Pinsir                       |
+| Pokémon   | Pinsir                       |
 | Energy    | {G}{G}{G}{G}{G}              |
 | Damage    |                              |
 | Effect    |                              |
@@ -1083,13 +1083,13 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | かわらわり                       |
 | Type      | Fighting                         |
 | Code      | EBW01-005                        |
-| Pokemon   | Pinsir                           |
+| Pokémon   | Pinsir                           |
 | Energy    | {F}                              |
 | Damage    | 20                               |
 | Effect    |                                  |
 | Standing  | This attack does 20 more damage. |
 | Handstand |                                  |
-| Back      | This attack does 30 more damage. |
+| Back      | This attack does 20 more damage. |
 | Down      |                                  |
 | Sideways  |                                  |
 
@@ -1102,7 +1102,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | チャージばさみ                                                   |
 | Type      | Grass                                                            |
 | Code      | EBW01-006                                                        |
-| Pokemon   | Pinsir                                                           |
+| Pokémon   | Pinsir                                                           |
 | Energy    | {G}{G}                                                           |
 | Damage    | 20                                                               |
 | Effect    |                                                                  |
@@ -1121,7 +1121,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ぎゃくじょうスイング                                                                 |
 | Type      | Grass                                                                                |
 | Code      | EBW01-007                                                                            |
-| Pokemon   | Pinsir                                                                               |
+| Pokémon   | Pinsir                                                                               |
 | Energy    | {G}{G}{G}                                                                            |
 | Damage    | 10                                                                                   |
 | Effect    |                                                                                      |
@@ -1140,7 +1140,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | とつげき                                    |
 | Type      | Grass                                       |
 | Code      | EBW01-008                                   |
-| Pokemon   | Pinsir                                      |
+| Pokémon   | Pinsir                                      |
 | Energy    | {G}{G}{G}                                   |
 | Damage    | 30                                          |
 | Effect    |                                             |
@@ -1159,7 +1159,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ひっさつばさみ                   |
 | Type      | Grass                            |
 | Code      | EBW01-009                        |
-| Pokemon   | Pinsir                           |
+| Pokémon   | Pinsir                           |
 | Energy    | {G}{G}{G}{G}                     |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1178,7 +1178,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | じごくぐるま                                |
 | Type      | Fighting                                    |
 | Code      | EBW01-010                                   |
-| Pokemon   | Pinsir                                      |
+| Pokémon   | Pinsir                                      |
 | Energy    | {F}{C}{C}{C}                                |
 | Damage    | 30                                          |
 | Effect    | This Pokémon also does 20 damage to itself. |
@@ -1199,7 +1199,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ほのおのつばさ                              |
 | Type      | Fire                                        |
 | Code      | EBW01-011                                   |
-| Pokemon   | Moltres                                     |
+| Pokémon   | Moltres                                     |
 | Energy    | {F}{F}                                      |
 | Damage    | 30                                          |
 | Effect    |                                             |
@@ -1218,7 +1218,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ねっぷう                         |
 | Type      | Fire                             |
 | Code      | EBW01-012                        |
-| Pokemon   | Moltres                          |
+| Pokémon   | Moltres                          |
 | Energy    | {F}{F}{F}                        |
 | Damage    | 30                               |
 | Effect    |                                  |
@@ -1237,7 +1237,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | かえんほうしゃ                                                 |
 | Type      | Fire                                                           |
 | Code      | EBW01-013                                                      |
-| Pokemon   | Moltres                                                        |
+| Pokémon   | Moltres                                                        |
 | Energy    | {F}{F}{F}{F}                                                   |
 | Damage    | 40                                                             |
 | Effect    |
@@ -1256,7 +1256,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | フレアドライブ                              |
 | Type      | Fire                                        |
 | Code      | EBW01-014                                   |
-| Pokemon   | Moltres                                     |
+| Pokémon   | Moltres                                     |
 | Energy    | {F}{F}{F}{F}{F}                             |
 | Damage    | 50                                          |
 | Effect    |                                             |
@@ -1275,7 +1275,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ぼうふう                         |
 | Type      | Flying                           |
 | Code      | EBW01-015                        |
-| Pokemon   | Moltres                          |
+| Pokémon   | Moltres                          |
 | Energy    | {Y}{C}{C}{C}                     |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1294,7 +1294,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ほのおのうず                                                   |
 | Type      | Fire                                                           |
 | Code      | EBW01-016                                                      |
-| Pokemon   | Moltres                                                        |
+| Pokémon   | Moltres                                                        |
 | Energy    | {F}{F}                                                         |
 | Damage    | 20                                                             |
 | Effect    |                                                                |
@@ -1313,7 +1313,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ヒートブレス                                |
 | Type      | Fire                                        |
 | Code      | EBW01-017                                   |
-| Pokemon   | Moltres                                     |
+| Pokémon   | Moltres                                     |
 | Energy    | {F}{F}{F}                                   |
 | Damage    | 40                                          |
 | Effect    |                                             |
@@ -1332,7 +1332,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | もえつきる                |
 | Type      | Fire                      |
 | Code      | EBW01-018                 |
-| Pokemon   | Moltres                   |
+| Pokémon   | Moltres                   |
 | Energy    | {F}{F}{F}{F}              |
 | Damage    | 80                        |
 | Effect    |                           |
@@ -1351,7 +1351,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ウイングラッシュ                 |
 | Type      | Flying                           |
 | Code      | EBW01-019                        |
-| Pokemon   | Moltres                          |
+| Pokémon   | Moltres                          |
 | Energy    | {Y}                              |
 | Damage    | 20                               |
 | Effect    |
@@ -1370,7 +1370,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | そらをとぶ                                                                       |
 | Type      | Flying                                                                           |
 | Code      | EBW01-020                                                                        |
-| Pokemon   | Moltres                                                                          |
+| Pokémon   | Moltres                                                                          |
 | Energy    | {Y}{C}{C}                                                                        |
 | Damage    | 30                                                                               |
 | Effect    |                                                                                  |
@@ -1391,7 +1391,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | アイスウイング                                                            |
 | Type      | Water                                                                     |
 | Code      | EBW01-021                                                                 |
-| Pokemon   | Articuno                                                                  |
+| Pokémon   | Articuno                                                                  |
 | Energy    | {W}{W}                                                                    |
 | Damage    | 10                                                                        |
 | Effect    |                                                                           |
@@ -1410,7 +1410,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | いてつくやいば                                                  |
 | Type      | Water                                                           |
 | Code      | EBW01-022                                                       |
-| Pokemon   | Articuno                                                        |
+| Pokémon   | Articuno                                                        |
 | Energy    | {W}{W}{W}                                                       |
 | Damage    | 30                                                              |
 | Effect    |                                                                 |
@@ -1429,7 +1429,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ブリザードストーム               |
 | Type      | Water                            |
 | Code      | EBW01-023                        |
-| Pokemon   | Articuno                         |
+| Pokémon   | Articuno                         |
 | Energy    | {W}{W}{W}{W}                     |
 | Damage    | 30                               |
 | Effect    |                                  |
@@ -1446,7 +1446,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | エアカッター                     |
 | Type      | Flying                           |
 | Code      | EBW01-024                        |
-| Pokemon   | Articuno                         |
+| Pokémon   | Articuno                         |
 | Energy    | {Y}{C}{C}{C}                     |
 | Damage    | 40                               |
 | Effect    |                                  |
@@ -1465,7 +1465,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | はねやすめ                             |
 | Type      | Flying                                 |
 | Code      | EBW01-025                              |
-| Pokemon   | Articuno                               |
+| Pokémon   | Articuno                               |
 | Energy    | {Y}{Y}                                 |
 | Damage    |                                        |
 | Effect    | Heal 20 damage from this Pokémon.      |
@@ -1484,7 +1484,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | フリーズダイブ                   |
 | Type      | Water                            |
 | Code      | EBW01-026                        |
-| Pokemon   | Articuno                         |
+| Pokémon   | Articuno                         |
 | Energy    | {W}                              |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -1501,7 +1501,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | アイスショット                   |
 | Type      | Water                            |
 | Code      | EBW01-027                        |
-| Pokemon   | Articuno                         |
+| Pokémon   | Articuno                         |
 | Energy    | {W}{W}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1520,7 +1520,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | コールドブレス                                                            |
 | Type      | Water                                                                     |
 | Code      | EBW01-028                                                                 |
-| Pokemon   | Articuno                                                                  |
+| Pokémon   | Articuno                                                                  |
 | Energy    | {W}{W}{W}                                                                 |
 | Damage    | 20                                                                        |
 | Effect    |                                                                           |
@@ -1539,7 +1539,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ぜったいれいど                                                                                                            |
 | Type      | Water                                                                                                                     |
 | Code      | EBW01-029                                                                                                                 |
-| Pokemon   | Articuno                                                                                                                  |
+| Pokémon   | Articuno                                                                                                                  |
 | Energy    | {W}{W}{W}{W}                                                                                                              |
 | Damage    | 40                                                                                                                        |
 | Effect    |                                                                                                                           |
@@ -1558,7 +1558,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | そらをとぶ                                                                       |
 | Type      | Flying                                                                           |
 | Code      | EBW01-030                                                                        |
-| Pokemon   | Articuno                                                                         |
+| Pokémon   | Articuno                                                                         |
 | Energy    | {Y}{C}{C}                                                                        |
 | Damage    | 30                                                                               |
 | Effect    |                                                                                  |
@@ -1579,7 +1579,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | でんじフラッシュ                 |
 | Type      | Electric                         |
 | Code      | EBW01-031                        |
-| Pokemon   | Zapdos                           |
+| Pokémon   | Zapdos                           |
 | Energy    | {L}{L}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1598,7 +1598,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | でんきショック                   |
 | Type      | Electric                         |
 | Code      | EBW01-032                        |
-| Pokemon   | Zapdos                           |
+| Pokémon   | Zapdos                           |
 | Energy    | {L}                              |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -1617,7 +1617,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ボルトラッシュ                                                                  |
 | Type      | Electric                                                                        |
 | Code      | EBW01-033                                                                       |
-| Pokemon   | Zapdos                                                                          |
+| Pokémon   | Zapdos                                                                          |
 | Energy    | {L}{L}{L}{L}                                                                    |
 | Damage    | 10                                                                              |
 | Effect    | Roll your Charakoro 3 times.                                                    |
@@ -1636,7 +1636,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | つばめがえし                     |
 | Type      | Flying                           |
 | Code      | EBW01-034                        |
-| Pokemon   | Zapdos                           |
+| Pokémon   | Zapdos                           |
 | Energy    | {Y}                              |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1655,7 +1655,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | バリバリウイング                 |
 | Type      | Flying                           |
 | Code      | EBW01-035                        |
-| Pokemon   | Zapdos                           |
+| Pokémon   | Zapdos                           |
 | Energy    | {Y}{C}{C}{C}                     |
 | Damage    | 40                               |
 | Effect    |                                  |
@@ -1674,7 +1674,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ダブルサンダー                                                                  |
 | Type      | Electric                                                                        |
 | Code      | EBW01-036                                                                       |
-| Pokemon   | Zapdos                                                                          |
+| Pokémon   | Zapdos                                                                          |
 | Energy    | {L}                                                                             |
 | Damage    |                                                                                 |
 | Effect    | Roll your Charakoro 2 times.                                                    |
@@ -1693,7 +1693,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | エレキアロー                     |
 | Type      | Electric                         |
 | Code      | EBW01-037                        |
-| Pokemon   | Zapdos                           |
+| Pokémon   | Zapdos                           |
 | Energy    | {L}{L}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1712,7 +1712,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ほうでん                         |
 | Type      | Electric                         |
 | Code      | EBW01-038                        |
-| Pokemon   | Zapdos                           |
+| Pokémon   | Zapdos                           |
 | Energy    | {L}{L}{L}                        |
 | Damage    | 30                               |
 | Effect    |                                  |
@@ -1731,7 +1731,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | サンダーチェイン                                                                         |
 | Type      | Electric                                                                                 |
 | Code      | EBW01-039                                                                                |
-| Pokemon   | Zapdos                                                                                   |
+| Pokémon   | Zapdos                                                                                   |
 | Energy    | {L}{L}{L}{L}                                                                             |
 | Damage    | 30                                                                                       |
 | Effect    |                                                                                          |
@@ -1750,7 +1750,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | そらをとぶ                                                                       |
 | Type      | Flying                                                                           |
 | Code      | EBW01-040                                                                        |
-| Pokemon   | Zapdos                                                                           |
+| Pokémon   | Zapdos                                                                           |
 | Energy    | {Y}{C}{C}                                                                        |
 | Damage    | 30                                                                               |
 | Effect    |                                                                                  |
@@ -1771,7 +1771,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | がんせきタックル                                                                  |
 | Type      | Fighting                                                                          |
 | Code      | EBW01-041                                                                         |
-| Pokemon   | Onix                                                                              |
+| Pokémon   | Onix                                                                              |
 | Energy    | {F}{F}                                                                            |
 | Damage    | 10                                                                                |
 | Effect    | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
@@ -1790,7 +1790,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | いわおとし                       |
 | Type      | Fighting                         |
 | Code      | EBW01-042                        |
-| Pokemon   | Onix                             |
+| Pokémon   | Onix                             |
 | Energy    | {F}{F}{F}                        |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1809,7 +1809,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ロックウォール                                                                    |
 | Type      | Fighting                                                                          |
 | Code      | EBW01-043                                                                         |
-| Pokemon   | Onix                                                                              |
+| Pokémon   | Onix                                                                              |
 | Energy    | {F}{F}{F}                                                                         |
 | Damage    | 30                                                                                |
 | Effect    |                                                                                   |
@@ -1828,7 +1828,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ハードインパクト                                               |
 | Type      | Fighting                                                       |
 | Code      | EBW01-044                                                      |
-| Pokemon   | Onix                                                           |
+| Pokémon   | Onix                                                           |
 | Energy    | {F}{F}{F}{F}                                                   |
 | Damage    | 30                                                             |
 | Effect    |                                                                |
@@ -1847,7 +1847,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ジャイロボール                                                                                               |
 | Type      | Steel                                                                                                        |
 | Code      | EBW01-045                                                                                                    |
-| Pokemon   | Onix                                                                                                         |
+| Pokémon   | Onix                                                                                                         |
 | Energy    | {M}{C}{C}                                                                                                    |
 | Damage    | 20                                                                                                           |
 | Effect    |                                                                                                              |
@@ -1866,7 +1866,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ぶつかる                         |
 | Type      | Fighting                         |
 | Code      | EBW01-046                        |
-| Pokemon   | Onix                             |
+| Pokémon   | Onix                             |
 | Energy    | {F}                              |
 | Damage    | 10                               |
 | Effect    |                                  |
@@ -1885,7 +1885,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | いわなだれ                       |
 | Type      | Fighting                         |
 | Code      | EBW01-047                        |
-| Pokemon   | Onix                             |
+| Pokémon   | Onix                             |
 | Energy    | {F}{F}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1904,7 +1904,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ワイルドタックル                            |
 | Type      | Fighting                                    |
 | Code      | EBW01-048                                   |
-| Pokemon   | Onix                                        |
+| Pokémon   | Onix                                        |
 | Energy    | {F}{F}{F}                                   |
 | Damage    | 30                                          |
 | Effect    |                                             |
@@ -1923,7 +1923,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | がんせきバリア                                                                    |
 | Type      | Fighting                                                                          |
 | Code      | EBW01-049                                                                         |
-| Pokemon   | Onix                                                                              |
+| Pokémon   | Onix                                                                              |
 | Energy    | {F}{F}{F}{F}                                                                      |
 | Damage    | 40                                                                                |
 | Effect    |                                                                                   |
@@ -1942,7 +1942,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | アイアンテール                                                                    |
 | Type      | Steel                                                                             |
 | Code      | EBW01-050                                                                         |
-| Pokemon   | Onix                                                                              |
+| Pokémon   | Onix                                                                              |
 | Energy    | {M}{C}{C}                                                                         |
 | Damage    | 20                                                                                |
 | Effect    |                                                                                   |
@@ -1961,7 +1961,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | どくガス                                                                  |
 | Type      | Dark                                                                      |
 | Code      | EBW01-051                                                                 |
-| Pokemon   | Grimer                                                                    |
+| Pokémon   | Grimer                                                                    |
 | Energy    | {D}                                                                       |
 | Damage    | 10                                                                        |
 | Effect    |                                                                           |
@@ -1980,7 +1980,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ベトベトなげ                     |
 | Type      | Dark                             |
 | Code      | EBW01-052                        |
-| Pokemon   | Grimer                           |
+| Pokémon   | Grimer                           |
 | Energy    | {D}{D}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
@@ -1999,15 +1999,15 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | どくどくヒール                                                                                                 |
 | Type      | Dark                                                                                                           |
 | Code      | EBW01-053                                                                                                      |
-| Pokemon   | Grimer                                                                                                         |
+| Pokémon   | Grimer                                                                                                         |
 | Energy    | {D}{D}{D}                                                                                                      |
 | Damage    | 30                                                                                                             |
 | Effect    |                                                                                                                |
-| Standing  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Standing  | During your last turn, if this Pokémon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
 | Handstand |                                                                                                                |
-| Back      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Back      | During your last turn, if this Pokémon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
 | Down      |                                                                                                                |
-| Sideways  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
+| Sideways  | During your last turn, if this Pokémon's 'Poison Gas' attack was successful, heal 30 damage from this Pokémon. |
 
 ![Toxic Heal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
 
@@ -2018,7 +2018,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ヘドロでかこむ                                                                           |
 | Type      | Dark                                                                                     |
 | Code      | EBW01-054                                                                                |
-| Pokemon   | Grimer                                                                                   |
+| Pokémon   | Grimer                                                                                   |
 | Energy    | {D}{D}{D}                                                                                |
 | Damage    | 30                                                                                       |
 | Effect    |                                                                                          |
@@ -2037,7 +2037,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ベノムパンチ                     |
 | Type      | Dark                             |
 | Code      | EBW01-055                        |
-| Pokemon   | Grimer                           |
+| Pokémon   | Grimer                           |
 | Energy    | {D}{D}{D}{D}                     |
 | Damage    | 40                               |
 | Effect    |                                  |
@@ -2056,7 +2056,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ベノムスリップ                                                                                                              |
 | Type      | Dark                                                                                                                        |
 | Code      | EBW01-057                                                                                                                   |
-| Pokemon   | Grimer                                                                                                                      |
+| Pokémon   | Grimer                                                                                                                      |
 | Energy    | {D}{D}                                                                                                                      |
 | Damage    | 20                                                                                                                          |
 | Effect    |                                                                                                                             |
@@ -2075,14 +2075,14 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | どくどくボンバー                                                                                              |
 | Type      | Dark                                                                                                          |
 | Code      | EBW01-058                                                                                                     |
-| Pokemon   | Grimer                                                                                                        |
+| Pokémon   | Grimer                                                                                                        |
 | Energy    | {D}{D}{D}                                                                                                     |
 | Damage    | 30                                                                                                            |
 | Effect    |                                                                                                               |
-| Standing  | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
+| Standing  | During your last turn, if this Pokémon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
 | Handstand |                                                                                                               |
-| Back      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
-| Down      | During your last turn, if this Pokemon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
+| Back      | During your last turn, if this Pokémon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
+| Down      | During your last turn, if this Pokémon's 'Poison Gas' attack was successful, this attack does 30 more damage. |
 | Sideways  |                                                                                                               |
 
 ![Toxic Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard08.webp)
@@ -2094,7 +2094,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | ヘドロタックル                              |
 | Type      | Dark                                        |
 | Code      | EBW01-059                                   |
-| Pokemon   | Grimer                                      |
+| Pokémon   | Grimer                                      |
 | Energy    | {D}{D}{D}                                   |
 | Damage    | 20                                          |
 | Effect    |                                             |
@@ -2113,7 +2113,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Japanese  | いやがらせベノム                                                                                 |
 | Type      | Dark                                                                                             |
 | Code      | EBW01-060                                                                                        |
-| Pokemon   | Grimer                                                                                           |
+| Pokémon   | Grimer                                                                                           |
 | Energy    | {D}{D}{D}{D}                                                                                     |
 | Damage    | 20                                                                                               |
 | Effect    |                                                                                                  |
