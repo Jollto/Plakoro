@@ -1656,7 +1656,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Type      | Flying                           |
 | Code      | EBW01-035                        |
 | Pokémon   | Zapdos                           |
-| Energy    | {Y}{C}{C}{C}                     |
+| Energy    | {Y}{C}{C}{C}{C}                  |
 | Damage    | 40                               |
 | Effect    |                                  |
 | Standing  | This attack does 40 more damage. |
@@ -1726,20 +1726,20 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 #### Thunder Chain ?
 
-| Name      | Thunder Chain ?                                                                          |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  | サンダーチェイン                                                                         |
-| Type      | Electric                                                                                 |
-| Code      | EBW01-039                                                                                |
-| Pokémon   | Zapdos                                                                                   |
-| Energy    | {L}{L}{L}{L}                                                                             |
-| Damage    | 30                                                                                       |
-| Effect    |                                                                                          |
-| Standing  | This attack does 20 more damage. Reroll your Charakoro (Can be repeated until it fails.) |
-| Handstand |                                                                                          |
-| Back      | This attack does 20 more damage. Reroll your Charakoro (Can be repeated until it fails.) |
-| Down      | This attack does 20 more damage. Reroll your Charakoro (Can be repeated until it fails.) |
-| Sideways  |                                                                                          |
+| Name      | Thunder Chain ?                                                                           |
+| --------- | ----------------------------------------------------------------------------------------- |
+| Japanese  | サンダーチェイン                                                                          |
+| Type      | Electric                                                                                  |
+| Code      | EBW01-039                                                                                 |
+| Pokémon   | Zapdos                                                                                    |
+| Energy    | {L}{L}{L}{L}                                                                              |
+| Damage    | 30                                                                                        |
+| Effect    |                                                                                           |
+| Standing  | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
+| Handstand |                                                                                           |
+| Back      | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
+| Down      | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
+| Sideways  |                                                                                           |
 
 ![Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 
