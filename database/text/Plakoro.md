@@ -2011,9 +2011,9 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 ![Toxic Heal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
 
-#### Surround With Sludge ?
+#### Sludge Ring ?
 
-| Name      | Surround With Sludge ?                                                                   |
+| Name      | Sludge Ring ?                                                                            |
 | --------- | ---------------------------------------------------------------------------------------- |
 | Japanese  | ヘドロでかこむ                                                                           |
 | Type      | Dark                                                                                     |
@@ -2028,7 +2028,7 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Down      | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
 | Sideways  |                                                                                          |
 
-![Surround with Sludge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
+![Sludge Ring](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
 
 #### Venom Punch ?
 
@@ -2041,9 +2041,9 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 | Energy    | {D}{D}{D}{D}                     |
 | Damage    | 40                               |
 | Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
+| Standing  | This attack does 30 more damage. |
 | Handstand |                                  |
-| Back      | This attack does 20 more damage. |
+| Back      | This attack does 30 more damage. |
 | Down      |                                  |
 | Sideways  |                                  |
 
