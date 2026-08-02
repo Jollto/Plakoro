@@ -153,3 +153,5 @@
 | Back      |                                                                  |
 | Down      |                                                                  |
 | Sideways  |                                                                  |
+
+[Flame Up](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img02.webp)

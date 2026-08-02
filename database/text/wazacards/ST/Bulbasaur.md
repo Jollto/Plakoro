@@ -154,3 +154,4 @@
 | Down      |                                   |
 | Sideways  |                                   |
 
+[Aroma Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)
