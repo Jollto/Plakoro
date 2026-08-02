@@ -67,4 +67,8 @@ database
         - symbols.md: symbols used by the game, reference here for keys
         - characards.md : characards translation
         - wazacards.md : link to files for all Pokémon, for easier access
-        - wazacards : folder for the translated moves, ordered the same as the cards equivalent, but with text
+        - wazacards : folder for the translated moves
+            - ST: starter set Pokémon
+                - one file for each Pokémon, with all the moves it has avaiable
+            - EB01 : expansion box 01 Pokémon
+                - one file for each Pokémon, with all the moves it has avaiable
