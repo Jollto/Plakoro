@@ -17,7 +17,6 @@
 | Down      |
 | Sideways  |
 
-
 ## Starter Set
 
 ### Bulbasaur
