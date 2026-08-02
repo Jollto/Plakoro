@@ -47,24 +47,24 @@
 
 ### Pinsir
 
-[Pinsir Cards](wazacards/EB1/Pinsir.md)
+[Pinsir Cards](wazacards/EB01/Pinsir.md)
 
 ### Moltres
 
-[Moltres Cards](wazacards/EB1/Moltres.md)
+[Moltres Cards](wazacards/EB01/Moltres.md)
 
 ### Articuno
 
-[Articuno Cards](wazacards/EB1/Articuno.md)
+[Articuno Cards](wazacards/EB01/Articuno.md)
 
 ### Zapdos
 
-[Zapdos Cards](wazacards/EB1/Zapdos.md)
+[Zapdos Cards](wazacards/EB01/Zapdos.md)
 
 ### Onix
 
-[Onix Cards](wazacards/EB1/Onix.md)
+[Onix Cards](wazacards/EB01/Onix.md)
 
 ### Grimer
 
-[Grimer Cards](wazacards/EB1/Grimer.md)
+[Grimer Cards](wazacards/EB01/Grimer.md)

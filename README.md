@@ -51,4 +51,24 @@ Please open an Issue for discussion or submit a Pull Request.
 
 Unless otherwise noted, my original contributions to this repository are dedicated to the public domain under **CC-BY-NC-4.0**.
 
-This license does **not** apply to either Pokemon's and Plakoro's original artwork, logos, card layouts, or any other copyrighted material owned by their respective rights holders.
+This license does **not** apply to either Pokémon's and Plakoro's original artwork, logos, card layouts, or any other copyrighted material owned by their respective rights holders.
+
+## Structure
+
+- [database](/database/) : where you should find what you're searching
+    - [cards](/database/cards/) : where to find the cards to print
+        - [characards](/database/cards/characards/) : character cards
+        - [wazacards](/database/cards/wazacards/)  : attack cards
+            - [ST](/database/cards/wazacards/ST/): starter set Pokémon
+                - one folder for each Pokémon
+            - [EB01](/database/cards/wazacards/EB01/) : expansion box 01 Pokémon
+                - one folder for each Pokémon
+    - [text](/database/text/) : text translations
+        - [symbols.md](/database/text/symbols.md): symbols used by the game, reference here for keys
+        - [characards.md](/database/text/characards.md) : characards translation
+        - [wazacards.md](/database/text/wazacards.md) : link to files for all Pokémon, for easier access
+        - [wazacards](/database/text/wazacards/) : folder for the translated moves
+            - [ST](/database/text/wazacards/ST/): starter set Pokémon
+                - one file for each Pokémon, with all the moves it has avaiable
+            - [EB01](/database/text/wazacards/EB01) : expansion box 01 Pokémon
+                - one file for each Pokémon, with all the moves it has avaiable
