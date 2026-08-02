@@ -134,3 +134,24 @@
 | Sideways  |                                  |
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard07.webp)
+
+### Promo
+
+#### Flame Up ?
+
+| Name      | Flame Up ?                                                       |
+| --------- | ---------------------------------------------------------------- |
+| Japanese  | フレイムアップ                                                   |
+| Type      | Fire                                                             |
+| Code      | PRW01-2-08                                                       |
+| Pokémon   | Charmander                                                       |
+| Energy    | {R}{R}{R}                                                        |
+| Damage    | 20                                                               |
+| Effect    |                                                                  |
+| Standing  | On your next turn, increase the number of Enekoro you roll by 2. |
+| Handstand | On your next turn, reduce the number of Enekoro you roll by 2.   |
+| Back      |                                                                  |
+| Down      |                                                                  |
+| Sideways  |                                                                  |
+
+[Flame Up](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img02.webp)

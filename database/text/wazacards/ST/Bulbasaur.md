@@ -134,3 +134,24 @@
 | Sideways  | This attack does 20 more damage. |
 
 [Acid Spray](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
+
+### Promo
+
+#### Aroma Storm ?
+
+| Name      | Aroma Storm ?                     |
+| --------- | --------------------------------- |
+| Japanese  | アロマストーム                    |
+| Type      | Grass                             |
+| Code      | PRW01-1-08                        |
+| Pokémon   | Bulbasaur                         |
+| Energy    | {G}{G}{G}{G}                      |
+| Damage    | 30                                |
+| Effect    |                                   |
+| Standing  | Heal 50 damage from this Pokémon. |
+| Handstand |                                   |
+| Back      |                                   |
+| Down      |                                   |
+| Sideways  |                                   |
+
+[Aroma Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)
