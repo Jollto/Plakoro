@@ -55,20 +55,20 @@ This license does **not** apply to either Pokémon's and Plakoro's original artw
 
 ## Structure
 
-database
-    - cards : where to find the cards to print
-        - characards : character cards
-        - wazacards  : attack cards
-            - ST: starter set Pokémon
+- [database](/database/) : where you should find what you're searching
+    - [cards](/database/cards/) : where to find the cards to print
+        - [characards](/database/cards/characards/) : character cards
+        - [wazacards](/database/cards/wazacards/)  : attack cards
+            - [ST](/database/cards/wazacards/ST/): starter set Pokémon
                 - one folder for each Pokémon
-            - EB01 : expansion box 01 Pokémon
+            - [EB01](/database/cards/wazacards/EB01/) : expansion box 01 Pokémon
                 - one folder for each Pokémon
-    - text : text translations
-        - symbols.md: symbols used by the game, reference here for keys
-        - characards.md : characards translation
-        - wazacards.md : link to files for all Pokémon, for easier access
-        - wazacards : folder for the translated moves
-            - ST: starter set Pokémon
+    - [text](/database/text/) : text translations
+        - [symbols.md](/database/text/symbols.md): symbols used by the game, reference here for keys
+        - [characards.md](/database/text/characards.md) : characards translation
+        - [wazacards.md](/database/text/wazacards.md) : link to files for all Pokémon, for easier access
+        - [wazacards](/database/text/wazacards/) : folder for the translated moves
+            - [ST](/database/text/wazacards/ST/): starter set Pokémon
                 - one file for each Pokémon, with all the moves it has avaiable
-            - EB01 : expansion box 01 Pokémon
+            - [EB01](/database/text/wazacards/EB01) : expansion box 01 Pokémon
                 - one file for each Pokémon, with all the moves it has avaiable
