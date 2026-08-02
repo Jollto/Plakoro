@@ -17,816 +17,6 @@
 | Down      |
 | Sideways  |
 
-### Bulbasaur Cards
-
-#### Vine Whip
-
-| Name      | Vine Whip                        |
-| --------- | -------------------------------- |
-| Japanese  | つるのムチ                       |
-| Type      | Grass                            |
-| Code      | STW01-001                        |
-| Pokémon   | Bulbasaur                        |
-| Energy    | {G}                              |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      | This attack does 20 more damage. |
-| Down      | This attack does 20 more damage. |
-| Sideways  |                                  |
-
-![Vine Whip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard01.webp)
-
-#### Razor Leaf
-
-| Name      | Razor Leaf                       |
-| --------- | -------------------------------- |
-| Japanese  | はっぱカッター                   |
-| Type      | Grass                            |
-| Code      | STW01-002                        |
-| Pokémon   | Bulbasaur                        |
-| Energy    | {G}{G}                           |
-| Damage    | 20                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Razor Leaf](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
-
-#### Leech Seed
-
-| Name      | Leech Seed                                                                                                                                 |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | やどりぎのタネ                                                                                                                             |
-| Type      | Grass                                                                                                                                      |
-| Code      | STW01-003                                                                                                                                  |
-| Pokémon   | Bulbasaur                                                                                                                                  |
-| Energy    | {G}{G}                                                                                                                                     |
-| Damage    | 10                                                                                                                                         |
-| Effect    |                                                                                                                                            |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
-| Handstand |                                                                                                                                            |
-| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
-| Down      |                                                                                                                                            |
-| Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
-
-![Leech Seed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
-
-#### Grass Knot
-
-| Name      | Grass Knot                                                                               |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  | くさむすび                                                                               |
-| Type      | Grass                                                                                    |
-| Code      | STW01-004                                                                                |
-| Pokémon   | Bulbasaur                                                                                |
-| Energy    | {G}{G}{G}                                                                                |
-| Damage    | 30                                                                                       |
-| Effect    |                                                                                          |
-| Standing  | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Handstand |                                                                                          |
-| Back      | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Down      | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Sideways  |                                                                                          |
-
-![Grass Knot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
-
-#### Assault ?
-
-| Name      | Assault ?                                   |
-| --------- | ------------------------------------------- |
-| Japanese  | とつげき                                    |
-| Type      | Grass                                       |
-| Code      | STW01-005                                   |
-| Pokémon   | Bulbasaur                                   |
-| Energy    | {G}{G}{G}                                   |
-| Damage    | 10                                          |
-| Effect    |                                             |
-| Standing  | This attack does 40 more damage.            |
-| Handstand | This Pokémon also does 30 damage to itself. |
-| Back      | This attack does 40 more damage.            |
-| Down      | This Pokémon also does 30 damage to itself. |
-| Sideways  |                                             |
-
-![Assault](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
-
-#### Giga Drain
-
-| Name      | Giga Drain                        |
-| --------- | --------------------------------- |
-| Japanese  | ギガドレイン                      |
-| Type      | Grass                             |
-| Code      | STW01-006                         |
-| Pokémon   | Bulbasaur                         |
-| Energy    | {G}{G}{G}{G}                      |
-| Damage    | 40                                |
-| Effect    |                                   |
-| Standing  | Heal 40 damage from this Pokémon. |
-| Handstand |                                   |
-| Back      |                                   |
-| Down      |                                   |
-| Sideways  | Heal 40 damage from this Pokémon. |
-
-![Giga Drain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard06.webp)
-
-#### Acid Spray
-
-| Name      | Acid Spray                       |
-| --------- | -------------------------------- |
-| Japanese  | アシッドボム                     |
-| Type      | Dark                             |
-| Code      | STW01-007                        |
-| Pokémon   | Bulbasaur                        |
-| Energy    | {D}{C}{C}                        |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Acid Spray](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
-
-### Charmander Cards
-
-#### Ember
-
-| Name      | Ember                            |
-| --------- | -------------------------------- |
-| Japanese  | ひのこ                           |
-| Type      | Fire                             |
-| Code      | STW02-001                        |
-| Pokémon   | Charmander                       |
-| Energy    | {R}{R}                           |
-| Damage    | 20                               |
-| Effect    |                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                  |
-| Back      | This attack does 30 more damage. |
-| Down      |                                  |
-| Sideways  |                                  |
-
-![Ember](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard01.webp)
-
-#### Heat Up
-
-| Name      | Heat Up                                                          |
-| --------- | ---------------------------------------------------------------- |
-| Japanese  | ヒートアップ                                                     |
-| Type      | Fire                                                             |
-| Code      | STW02-002                                                        |
-| Pokémon   | Charmander                                                       |
-| Energy    | {R}{R}                                                           |
-| Damage    | 10                                                               |
-| Effect    |                                                                  |
-| Standing  | On your next turn, increase the number of Enekoro you roll by 2. |
-| Handstand |                                                                  |
-| Back      | On your next turn, increase the number of Enekoro you roll by 2. |
-| Down      |                                                                  |
-| Sideways  |                                                                  |
-
-![Heat Up](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard02.webp)
-
-#### Flamethrower
-
-| Name      | Flamethrower                                                   |
-| --------- | -------------------------------------------------------------- |
-| Japanese  | かえんほうしゃ                                                 |
-| Type      | Fire                                                           |
-| Code      | STW02-003                                                      |
-| Pokémon   | Charmander                                                     |
-| Energy    | {R}{R}{R}                                                      |
-| Damage    | 40                                                             |
-| Effect    |                                                                |
-| Standing  | This attack does 20 more damage.                               |
-| Handstand | On your next turn, reduce the number of Enekoro you roll by 1. |
-| Back      | This attack does 20 more damage.                               |
-| Down      | On your next turn, reduce the number of Enekoro you roll by 1. |
-| Sideways  | On your next turn, reduce the number of Enekoro you roll by 1. |
-
-![Flamethrower](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard03.webp)
-
-#### Fire Fang
-
-| Name      | Fire Fang                        |
-| --------- | -------------------------------- |
-| Japanese  | ほのおのキバ                     |
-| Type      | Fire                             |
-| Code      | STW02-004                        |
-| Pokémon   | Charmander                       |
-| Energy    | {R}{R}{R}{R}                     |
-| Damage    | 30                               |
-| Effect    |                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                  |
-| Back      | This attack does 30 more damage. |
-| Down      | This attack does 30 more damage. |
-| Sideways  |                                  |
-
-![Fire Fang](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard04.webp)
-
-#### Flare Storm
-
-| Name      | Flare Storm                                              |
-| --------- | -------------------------------------------------------- |
-| Japanese  | フレアストーム                                           |
-| Type      | Fire                                                     |
-| Code      | STW02-005                                                |
-| Pokémon   | Charmander                                               |
-| Energy    | {C}{C}{C}{C}{C}                                          |
-| Damage    | 20                                                       |
-| Effect    |                                                          |
-| Standing  | This attack does 10 damage for each {R} energy produced. |
-| Handstand |                                                          |
-| Back      |                                                          |
-| Down      |                                                          |
-| Sideways  | This attack does 10 damage for each {R} energy produced. |
-
-![Flare Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
-
-#### Thunder Punch
-
-| Name      | Thunder Punch                    |
-| --------- | -------------------------------- |
-| Japanese  | かみなりパンチ                   |
-| Type      | Electric                         |
-| Code      | STW02-006                        |
-| Pokémon   | Charmander                       |
-| Energy    | {L}{C}{C}                        |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      | This attack does 20 more damage. |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Thunder Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard06.webp)
-
-#### Metal Claw
-
-| Name      | Metal Claw                       |
-| --------- | -------------------------------- |
-| Japanese  | メタルクロー                     |
-| Type      | Steel                            |
-| Code      | STW02-007                        |
-| Pokémon   | Charmander                       |
-| Energy    | {M}{C}{C}                        |
-| Damage    | 20                               |
-| Effect    |                                  |
-| Standing  | This attack does 40 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  |                                  |
-
-![Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard07.webp)
-
-### Squirtle Cards
-
-#### Water Gun
-
-| Name      | Water Gun                        |
-| --------- | -------------------------------- |
-| Japanese  | みずでっぽう                     |
-| Type      | Water                            |
-| Code      | STW03-001                        |
-| Pokémon   | Squirtle                         |
-| Energy    | {W}                              |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      | This attack does 20 more damage. |
-| Sideways  |                                  |
-
-![Water Gun](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard01.webp)
-
-#### Withdraw
-
-| Name      | Withdraw                                                                          |
-| --------- | --------------------------------------------------------------------------------- |
-| Japanese  | からにこもる                                                                      |
-| Type      | Water                                                                             |
-| Code      | STW03-002                                                                         |
-| Pokémon   | Squirtle                                                                          |
-| Energy    | {W}                                                                               |
-| Damage    |                                                                                   |
-| Effect    | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Standing  |                                                                                   |
-| Handstand |                                                                                   |
-| Back      |                                                                                   |
-| Down      | Heal 30 damage from this Pokémon.                                                 |
-| Sideways  |                                                                                   |
-
-![Withdraw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard02.webp)
-
-#### Water Pulse
-
-| Name      | Water Pulse                      |
-| --------- | -------------------------------- |
-| Japanese  | みずのはどう                     |
-| Type      | Water                            |
-| Code      | STW03-003                        |
-| Pokémon   | Squirtle                         |
-| Energy    | {W}{W}                           |
-| Damage    | 20                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Water Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard03.webp)
-
-#### Shell Attack
-
-| Name      | Shell Attack                                                                      |
-| --------- | --------------------------------------------------------------------------------- |
-| Japanese  | シェルアタック                                                                    |
-| Type      | Water                                                                             |
-| Code      | STW03-004                                                                         |
-| Pokémon   | Squirtle                                                                          |
-| Energy    | {W}{W}{W}                                                                         |
-| Damage    | 30                                                                                |
-| Effect    |                                                                                   |
-| Standing  | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Handstand |                                                                                   |
-| Back      | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Down      | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Sideways  |                                                                                   |
-
-![Shell Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
-
-#### Bubble Beam
-
-| Name      | Bubble Beam                                                               |
-| --------- | ------------------------------------------------------------------------- |
-| Japanese  | バブルこうせん                                                            |
-| Type      | Water                                                                     |
-| Code      | STW03-005                                                                 |
-| Pokémon   | Squirtle                                                                  |
-| Energy    | {W}{W}{W}                                                                 |
-| Damage    | 30                                                                        |
-| Effect    |                                                                           |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Handstand |                                                                           |
-| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Down      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Sideways  |                                                                           |
-
-![Bubble Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard05.webp)
-
-#### Hydro Rage ?
-
-| Name      | Hydro Rage ?                                                                  |
-| --------- | ----------------------------------------------------------------------------- |
-| Japanese  | ハイドロアンガー                                                              |
-| Type      | Water                                                                         |
-| Code      | STW03-006                                                                     |
-| Pokémon   | Squirtle                                                                      |
-| Energy    | {W}{W}{W}{W}                                                                  |
-| Damage    | 40                                                                            |
-| Effect    |                                                                               |
-| Standing  | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
-| Handstand |                                                                               |
-| Back      | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
-| Down      | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
-| Sideways  |                                                                               |
-
-![Hydro Rage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)
-
-#### Mud Shot
-
-| Name      | Mud Shot                         |
-| --------- | -------------------------------- |
-| Japanese  | マッドショット                   |
-| Type      | Fighting                         |
-| Code      | STW03-007                        |
-| Pokémon   | Squirtle                         |
-| Energy    | {F}{C}{C}{C}                     |
-| Damage    | 30                               |
-| Effect    |                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Mud Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
-
-### Pikachu Cards
-
-#### Gnaw
-
-| Name      | Gnaw                             |
-| --------- | -------------------------------- |
-| Japanese  | かじる                           |
-| Type      | Electric                         |
-| Code      | STW04-001                        |
-| Pokémon   | Pikachu                          |
-| Energy    | {L}                              |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                  |
-| Back      | This attack does 30 more damage. |
-| Down      |                                  |
-| Sideways  |                                  |
-
-![Gnaw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
-
-#### Thunder Shock
-
-| Name      | Thunder Shock                    |
-| --------- | -------------------------------- |
-| Japanese  | でんきショック                   |
-| Type      | Electric                         |
-| Code      | STW04-002                        |
-| Pokémon   | Pikachu                          |
-| Energy    | {L}{L}                           |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand | This attack does 20 more damage. |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard02.webp)
-
-#### Electric Rush ?
-
-| Name      | Electric Rush ?                                                    |
-| --------- | ------------------------------------------------------------------ |
-| Japanese  | エレキラッシュ                                                     |
-| Type      | Electric                                                           |
-| Code      | STW04-003                                                          |
-| Pokémon   | Pikachu                                                            |
-| Energy    | {L}{L}                                                             |
-| Damage    | 20                                                                 |
-| Effect    | This attack's damage isn't affected by Weakness.                   |
-| Standing  | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
-| Handstand |                                                                    |
-| Back      | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
-| Down      |                                                                    |
-| Sideways  |                                                                    |
-
-![Electric Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard03.webp)
-
-#### Thunderbolt
-
-| Name      | Thunderbolt                                                    |
-| --------- | -------------------------------------------------------------- |
-| Japanese  | 10まんボルト                                                   |
-| Type      | Electric                                                       |
-| Code      | STW04-004                                                      |
-| Pokémon   | Pikachu                                                        |
-| Energy    | {L}{L}{L}                                                      |
-| Damage    | 30                                                             |
-| Effect    |                                                                |
-| Standing  | This attack does 30 more damage.                               |
-| Handstand | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Back      | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Down      | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Sideways  | This attack does 20 more damage.                               |
-
-![Thunderbolt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
-
-#### Thunder
-
-| Name      | Thunder                          |
-| --------- | -------------------------------- |
-| Japanese  | かみなり                         |
-| Type      | Electric                         |
-| Code      | STW04-005                        |
-| Pokémon   | Pikachu                          |
-| Energy    | {L}{L}{L}                        |
-| Damage    | 20                               |
-| Effect    |                                  |
-| Standing  | This attack does 60 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  |                                  |
-
-![Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard05.webp)
-
-#### Volt Tackle
-
-| Name      | Volt Tackle                                 |
-| --------- | ------------------------------------------- |
-| Japanese  | ボルテッカー                                |
-| Type      | Electric                                    |
-| Code      | STW04-006                                   |
-| Pokémon   | Pikachu                                     |
-| Energy    | {L}{L}{L}{L}                                |
-| Damage    | 40                                          |
-| Effect    | This Pokémon also does 30 damage to itself. |
-| Standing  | This attack does 40 more damage.            |
-| Handstand |                                             |
-| Back      | This attack does 40 more damage.            |
-| Down      | This attack does 40 more damage.            |
-| Sideways  |                                             |
-
-![Volt Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
-
-#### Iron Tail
-
-| Name      | Iron Tail                                                                         |
-| --------- | --------------------------------------------------------------------------------- |
-| Japanese  | アイアンテール                                                                    |
-| Type      | Steel                                                                             |
-| Code      | STW04-007                                                                         |
-| Pokémon   | Pikachu                                                                           |
-| Energy    | {M}                                                                               |
-| Damage    | 20                                                                                |
-| Effect    |                                                                                   |
-| Standing  | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| Handstand |                                                                                   |
-| Back      | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| Down      | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| Sideways  |                                                                                   |
-
-![Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
-
-### Eevee Cards
-
-#### Tail Slap
-
-| Name      | Tail Slap                        |
-| --------- | -------------------------------- |
-| Japanese  | しっぽではたく                   |
-| Type      | Normal                           |
-| Code      | STW05-001                        |
-| Pokémon   | Eevee                            |
-| Energy    | {Y}                              |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 10 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  | This attack does 10 more damage. |
-
-![Tail Slap](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard01.webp)
-
-#### Tackle
-
-| Name      | Tackle                           |
-| --------- | -------------------------------- |
-| Japanese  | たいあたり                       |
-| Type      | Normal                           |
-| Code      | STW05-002                        |
-| Pokémon   | Eevee                            |
-| Energy    | {Y}{Y}                           |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      | This attack does 20 more damage. |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard02.webp)
-
-#### Take Down
-
-| Name      | Take Down                                   |
-| --------- | ------------------------------------------- |
-| Japanese  | とっしん                                    |
-| Type      | Normal                                      |
-| Code      | STW05-003                                   |
-| Pokémon   | Eevee                                       |
-| Energy    | {Y}{Y}                                      |
-| Damage    | 30                                          |
-| Effect    |                                             |
-| Standing  | This attack does 20 more damage.            |
-| Handstand | This Pokémon also does 20 damage to itself. |
-| Back      | This attack does 20 more damage.            |
-| Down      | This Pokémon also does 20 damage to itself. |
-| Sideways  |                                             |
-
-![Take Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard03.webp)
-
-#### Flop
-
-| Name      | Flop                        |
-| --------- | --------------------------- |
-| Japanese  | はねまわる                  |
-| Type      | Normal                      |
-| Code      | STW05-004                   |
-| Pokémon   | Eevee                       |
-| Energy    | {Y}{Y}{Y}                   |
-| Damage    |                             |
-| Effect    |                             |
-| Standing  | This attack does 70 damage. |
-| Handstand | This attack does 20 damage. |
-| Back      | This attack does 40 damage. |
-| Down      | This attack does 40 damage. |
-| Sideways  | This attack does 20 damage. |
-
-![Flop](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard04.webp)
-
-#### Full Power Dash ?
-
-| Name      | Full Power Dash ?                |
-| --------- | -------------------------------- |
-| Japanese  | ぜんりょくダッシュ               |
-| Type      | Normal                           |
-| Code      | STW05-005                        |
-| Pokémon   | Eevee                            |
-| Energy    | {C}{C}{C}{C}{C}                  |
-| Damage    | 40                               |
-| Effect    |                                  |
-| Standing  | This attack does 40 more damage. |
-| Handstand |                                  |
-| Back      | This attack does 40 more damage. |
-| Down      | This attack does 40 more damage. |
-| Sideways  |                                  |
-
-![Full Power Dash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard05.webp)
-
-#### Charm
-
-| Name      | Charm                                                                     |
-| --------- | ------------------------------------------------------------------------- |
-| Japanese  | あまえる                                                                  |
-| Type      | Psychic                                                                   |
-| Code      | STW05-006                                                                 |
-| Pokémon   | Eevee                                                                     |
-| Energy    | {P}                                                                       |
-| Damage    | 20                                                                        |
-| Effect    |                                                                           |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| Handstand |                                                                           |
-| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| Down      |                                                                           |
-| Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-
-![Charm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard06.webp)
-
-#### Bite
-
-| Name      | Bite                             |
-| --------- | -------------------------------- |
-| Japanese  | かみつく                         |
-| Type      | Dark                             |
-| Code      | STW05-007                        |
-| Pokémon   | Eevee                            |
-| Energy    | {D}{C}{C}                        |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Bite](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_wazacard07.webp)
-
-### Mew Cards
-
-#### Confusion
-
-| Name      | Confusion                        |
-| --------- | -------------------------------- |
-| Japanese  | ねんりき                         |
-| Type      | Psychic                          |
-| Code      | STW06-001                        |
-| Pokémon   | Mew                              |
-| Energy    | {P}                              |
-| Damage    | 10                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
-
-![Confusion](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard01.webp)
-
-#### Psybeam
-
-| Name      | Psybeam                          |
-| --------- | -------------------------------- |
-| Japanese  | サイケこうせん                   |
-| Type      | Psychic                          |
-| Code      | STW06-002                        |
-| Pokémon   | Mew                              |
-| Energy    | {P}{P}                           |
-| Damage    | 20                               |
-| Effect    |                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand | This attack does 30 more damage. |
-| Back      |                                  |
-| Down      |                                  |
-| Sideways  |                                  |
-
-![Psybeam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard02.webp)
-
-#### Barrier
-
-| Name      | Barrier                                                                           |
-| --------- | --------------------------------------------------------------------------------- |
-| Japanese  | バリアー                                                                          |
-| Type      | Psychic                                                                           |
-| Code      | STW06-003                                                                         |
-| Pokémon   | Mew                                                                               |
-| Energy    | {P}{P}                                                                            |
-| Damage    |                                                                                   |
-| Effect    | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Standing  | Reduce damage taken by an additional 30.                                          |
-| Handstand |                                                                                   |
-| Back      | Reduce damage taken by an additional 30.                                          |
-| Down      |                                                                                   |
-| Sideways  |                                                                                   |
-
-![Barrier](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard03.webp)
-
-#### Memory Skip
-
-| Name      | Memory Skip                                                                              |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  | メモリースキップ                                                                         |
-| Type      | Psychic                                                                                  |
-| Code      | STW06-004                                                                                |
-| Pokémon   | Mew                                                                                      |
-| Energy    | {P}{P}                                                                                   |
-| Damage    | 20                                                                                       |
-| Effect    |                                                                                          |
-| Standing  | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Handstand |                                                                                          |
-| Back      |                                                                                          |
-| Down      |                                                                                          |
-| Sideways  | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-
-![Memory Skip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard04.webp)
-
-#### Psyshot
-
-| Name      | Psyshot                          |
-| --------- | -------------------------------- |
-| Japanese  | サイコショット                   |
-| Type      | Psychic                          |
-| Code      | STW06-005                        |
-| Pokémon   | Mew                              |
-| Energy    | {P}{P}{P}                        |
-| Damage    | 30                               |
-| Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand | This attack does 20 more damage. |
-| Back      | This attack does 20 more damage. |
-| Down      | This attack does 20 more damage. |
-| Sideways  |                                  |
-
-![Psyshot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard05.webp)
-
-#### Psychic
-
-| Name      | Psychic                                                                                           |
-| --------- | ------------------------------------------------------------------------------------------------- |
-| Japanese  | サイコキネシス                                                                                    |
-| Type      | Psychic                                                                                           |
-| Code      | STW06-006                                                                                         |
-| Pokémon   | Mew                                                                                               |
-| Energy    | {P}{P}{P}                                                                                         |
-| Damage    | 20                                                                                                |
-| Effect    |                                                                                                   |
-| Standing  | The opponent rolls 3 Enekoro. Add 10 damage for each energy of the type that was rolled the most. |
-| Handstand |                                                                                                   |
-| Back      | The opponent rolls 3 Enekoro. Add 10 damage for each energy of the type that was rolled the most. |
-| Down      | The opponent rolls 3 Enekoro. Add 10 damage for each energy of the type that was rolled the most. |
-| Sideways  |                                                                                                   |
-
-![Psychic](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard06.webp)
-
-#### Reflection ?
-
-| Name      | Reflection ?                                                                                                                               |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | リフレクション                                                                                                                             |
-| Type      | Psychic                                                                                                                                    |
-| Code      | STW06-007                                                                                                                                  |
-| Pokémon   | Mew                                                                                                                                        |
-| Energy    | {P}{P}{P}{P}                                                                                                                               |
-| Damage    | 20                                                                                                                                         |
-| Effect    | This move does damage equal to the damage of the last move selected by your opponent. (Ignore any Charakoro effects of the selected move.) |
-| Standing  | Damage dealt by this attack is doubled.                                                                                                    |
-| Handstand |                                                                                                                                            |
-| Back      |                                                                                                                                            |
-| Down      |                                                                                                                                            |
-| Sideways  | Damage dealt by this attack is doubled.                                                                                                    |
-
-![Reflection](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard07.webp)
-
 ### Pinsir Cards
 
 #### Concentrator ?
@@ -846,7 +36,7 @@
 | Down      |                                                                  |
 | Sideways  | On your next turn, increase the number of Enekoro you roll by 2. |
 
-![Concentrator](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
+[Concentrator](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
 #### Endure ?
 
@@ -865,7 +55,7 @@
 | Down      | Reduce damage taken by an additional 20.                                          |
 | Sideways  |                                                                                   |
 
-![Endure](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
+[Endure](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
 #### Horn Attack ?
 
@@ -884,7 +74,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 30 more damage. |
 
-![Horn Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
+[Horn Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
 #### Guillotine
 
@@ -903,7 +93,7 @@
 | Down      |                              |
 | Sideways  |                              |
 
-![Guillotine](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
+[Guillotine](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
 
 #### Brick Break
 
@@ -922,7 +112,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-![Brick Break](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
+[Brick Break](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
 #### Scissors Charge ?
 
@@ -941,7 +131,7 @@
 | Down      |                                                                  |
 | Sideways  |                                                                  |
 
-![Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+[Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Berserk Swing ?
 
@@ -960,7 +150,7 @@
 | Down      |                                                                                      |
 | Sideways  | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
 
-![Pincer Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
+[Pincer Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
 #### Reckless Charge
 
@@ -979,7 +169,7 @@
 | Down      | This Pokémon also does 20 damage to itself. |
 | Sideways  |                                             |
 
-![Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
+[Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
 #### Deadly Scissors ?
 
@@ -998,7 +188,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-![Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Submission
 
@@ -1017,7 +207,7 @@
 | Down      | This attack does 30 more damage.            |
 | Sideways  |                                             |
 
-![Submission](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)
+[Submission](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)
 
 ### Moltres Cards
 
@@ -1230,7 +420,7 @@
 | Down      |                                                                           |
 | Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
 
-![Ice Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
+[Ice Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
 
 #### Frozen Blade ?
 
@@ -1249,7 +439,7 @@
 | Down      |                                                                 |
 | Sideways  | On your opponent's next turn, they cannot roll their Charakoro. |
 
-![Frozen Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
+[Frozen Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
 #### Blizzard Storm ?
 
@@ -1285,7 +475,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-![Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
+[Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
 
 #### Roost
 
@@ -1304,7 +494,7 @@
 | Down      |                                        |
 | Sideways  | Heal 20 more damage from this Pokémon. |
 
-![Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
+[Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
 
 #### Freeze Dive ?
 
@@ -1340,7 +530,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 20 more damage. |
 
-![Ice Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
+[Ice Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
 
 #### Cold Breath
 
@@ -1359,7 +549,7 @@
 | Down      |                                                                           |
 | Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
 
-![Cold Breath](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard08.webp)
+[Cold Breath](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard08.webp)
 
 #### Sheer Cold
 
@@ -1378,7 +568,7 @@
 | Down      |                                                                                                             |
 | Sideways  |                                                                                                             |
 
-![Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
+[Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
 
 #### Fly
 
@@ -1397,7 +587,7 @@
 | Down      | This attack does nothing.                                                        |
 | Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
 
-![Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
+[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
 
 ### Zapdos Cards
 
@@ -1418,7 +608,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-![Thunder Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
+[Thunder Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
 
 #### Thunder Shock
 
@@ -1437,7 +627,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 10 more damage. |
 
-![Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
+[Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
 
 #### Volt Rush ?
 
@@ -1456,7 +646,7 @@
 | Down      |                                                                                 |
 | Sideways  | Each time the Charakoro roll succeeds with this attack, it does 30 more damage. |
 
-![Volt Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
+[Volt Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
 
 #### Aerial Ace
 
@@ -1475,7 +665,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-![Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
+[Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
 
 #### Crushing Wing ?
 
@@ -1494,7 +684,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 40 more damage. |
 
-![Crushing Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
+[Crushing Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
 
 #### Dual Thunder ?
 
@@ -1513,7 +703,7 @@
 | Down      | Each time the Charakoro roll succeeds with this attack, it does 20 more damage. |
 | Sideways  |                                                                                 |
 
-![Dual Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard06.webp)
+[Dual Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard06.webp)
 
 #### Electroarrow ?
 
@@ -1532,7 +722,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-![Electroarrow](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard07.webp)
+[Electroarrow](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard07.webp)
 
 #### Discharge
 
@@ -1551,7 +741,7 @@
 | Down      | This attack does 20 more damage. |
 | Sideways  |                                  |
 
-![Discharge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
+[Discharge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
 
 #### Thunder Chain ?
 
@@ -1570,7 +760,7 @@
 | Down      | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
 | Sideways  |                                                                                           |
 
-![Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
+[Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 
 #### Fly
 
@@ -1589,7 +779,7 @@
 | Down      | This attack does nothing.                                                        |
 | Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
 
-![Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
+[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
 
 ### Onix Cards
 
@@ -1610,7 +800,7 @@
 | Down      |                                                                                   |
 | Sideways  | Reduce damage taken by an additional 20.                                          |
 
-![Rock Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard01.webp)
+[Rock Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard01.webp)
 
 #### Rock Throw
 
@@ -1629,7 +819,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-![Rock Throw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard02.webp)
+[Rock Throw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard02.webp)
 
 #### Rock Wall
 
@@ -1648,7 +838,7 @@
 | Down      |                                                                                   |
 | Sideways  | During your opponent's next turn, this Pokémon takes 30 less damage from attacks. |
 
-![Rock Wall](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard03.webp)
+[Rock Wall](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard03.webp)
 
 #### Hard Impact ?
 
@@ -1667,7 +857,7 @@
 | Down      |                                                                |
 | Sideways  | This attack does 30 more damage.                               |
 
-![Hard Impact](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard04.webp)
+[Hard Impact](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard04.webp)
 
 #### Gyro Ball
 
@@ -1686,7 +876,7 @@
 | Down      |                                                                                         |
 | Sideways  | Your opponent also rolls their Charakoro. On {hs}{do}, this attack does 60 more damage. |
 
-![Gyro Ball](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard05.webp)
+[Gyro Ball](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard05.webp)
 
 #### Ram
 
@@ -1705,7 +895,7 @@
 | Down      | This attack does 10 more damage. |
 | Sideways  |                                  |
 
-![Ram](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard06.webp)
+[Ram](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard06.webp)
 
 #### Rock Slide
 
@@ -1724,7 +914,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 20 more damage. |
 
-![Rock Slide](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard07.webp)
+[Rock Slide](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard07.webp)
 
 #### Wild Tackle
 
@@ -1743,7 +933,7 @@
 | Down      | This Pokémon also does 20 damage to itself. |
 | Sideways  | This Pokémon also does 20 damage to itself. |
 
-![Wild Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard08.webp)
+[Wild Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard08.webp)
 
 #### Rock Barrier ?
 
@@ -1762,7 +952,7 @@
 | Down      |                                                                                   |
 | Sideways  |                                                                                   |
 
-![Rock Barrier](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard09.webp)
+[Rock Barrier](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_wazacard09.webp)
 
 #### Iron Tail
 
@@ -1800,7 +990,7 @@
 | Down      |                                                                           |
 | Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
 
-![Poison Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard01.webp)
+[Poison Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard01.webp)
 
 #### Sludge Toss ?
 
@@ -1819,7 +1009,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 20 more damage. |
 
-![Sludge Toss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard02.webp)
+[Sludge Toss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard02.webp)
 
 #### Toxic Heal ?
 
@@ -1838,7 +1028,7 @@
 | Down      |                                                                                                                |
 | Sideways  | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 
-![Toxic Heal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
+[Toxic Heal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
 
 #### Sludge Ring ?
 
@@ -1857,7 +1047,7 @@
 | Down      | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
 | Sideways  |                                                                                          |
 
-![Sludge Ring](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
+[Sludge Ring](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
 
 #### Venom Punch ?
 
@@ -1876,7 +1066,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-![Venom Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard05.webp)
+[Venom Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard05.webp)
 
 #### Venom Slip ?
 
@@ -1895,7 +1085,7 @@
 | Down      |                                                                                                 |
 | Sideways  | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
 
-![Venom Slip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
+[Venom Slip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
 
 #### Toxic Blast ?
 
@@ -1914,7 +1104,7 @@
 | Down      | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
 | Sideways  |                                                                                                               |
 
-![Toxic Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard08.webp)
+[Toxic Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard08.webp)
 
 #### Sludge Tackle ?
 
@@ -1933,7 +1123,7 @@
 | Down      | This Pokémon also does 20 damage to itself. |
 | Sideways  | This attack does 40 more damage.            |
 
-![Sludge Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
+[Sludge Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 
 #### Harassment Venom ?
 
@@ -1952,4 +1142,4 @@
 | Down      |                                                                                                  |
 | Sideways  | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |
 
-![Harassment Venom](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard10.webp)
+[Harassment Venom](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard10.webp)
