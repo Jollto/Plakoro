@@ -118,19 +118,19 @@
 
 #### Reflection ?
 
-| Name      | Reflection ?                                                                                                                               |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | リフレクション                                                                                                                             |
-| Type      | Psychic                                                                                                                                    |
-| Code      | STW06-007                                                                                                                                  |
-| Pokémon   | Mew                                                                                                                                        |
-| Energy    | {P}{P}{P}{P}                                                                                                                               |
-| Damage    | 20                                                                                                                                         |
-| Effect    | This move does damage equal to the damage of the last move selected by your opponent. (Ignore any Charakoro effects of the selected move.) |
-| Standing  | Damage dealt by this attack is doubled.                                                                                                    |
-| Handstand |                                                                                                                                            |
-| Back      |                                                                                                                                            |
-| Down      |                                                                                                                                            |
-| Sideways  | Damage dealt by this attack is doubled.                                                                                                    |
+| Name      | Reflection ?                                                                                                                                     |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japanese  | リフレクション                                                                                                                                   |
+| Type      | Psychic                                                                                                                                          |
+| Code      | STW06-007                                                                                                                                        |
+| Pokémon   | Mew                                                                                                                                              |
+| Energy    | {P}{P}{P}{P}                                                                                                                                     |
+| Damage    | 20                                                                                                                                               |
+| Effect    | This attack does damage equal to the damage of the last attack selected by your opponent. (Ignore any Charakoro effects of the selected attack.) |
+| Standing  | Damage dealt by this attack is doubled.                                                                                                          |
+| Handstand |                                                                                                                                                  |
+| Back      |                                                                                                                                                  |
+| Down      |                                                                                                                                                  |
+| Sideways  | Damage dealt by this attack is doubled.                                                                                                          |
 
 [Reflection](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_wazacard07.webp)
