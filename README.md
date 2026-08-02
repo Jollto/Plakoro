@@ -51,4 +51,20 @@ Please open an Issue for discussion or submit a Pull Request.
 
 Unless otherwise noted, my original contributions to this repository are dedicated to the public domain under **CC-BY-NC-4.0**.
 
-This license does **not** apply to either Pokemon's and Plakoro's original artwork, logos, card layouts, or any other copyrighted material owned by their respective rights holders.
+This license does **not** apply to either Pokémon's and Plakoro's original artwork, logos, card layouts, or any other copyrighted material owned by their respective rights holders.
+
+## Structure
+
+database
+    - cards : where to find the cards to print
+        - characards : character cards
+        - wazacards  : attack cards
+            - ST: starter set Pokémon
+                - one folder for each Pokémon
+            - EB01 : expansion box 01 Pokémon
+                - one folder for each Pokémon
+    - text : text translations
+        - symbols.md: symbols used by the game, reference here for keys
+        - characards.md : characards translation
+        - wazacards.md : link to files for all Pokémon, for easier access
+        - wazacards : folder for the translated moves, ordered the same as the cards equivalent, but with text
