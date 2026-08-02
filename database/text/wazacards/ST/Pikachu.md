@@ -134,3 +134,24 @@
 | Sideways  |                                                                                   |
 
 [Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
+
+### Promo
+
+#### Critical Bolt ?
+
+| Name      | Critical Bolt                    |
+| --------- | -------------------------------- |
+| Japanese  | クリティカルボルト               |
+| Type      | Electric                         |
+| Code      | PRW01-008                        |
+| Pokémon   | Pikachu                          |
+| Energy    | {L}{L}{L}{L}                     |
+| Damage    | 30                               |
+| Effect    |                                  |
+| Standing  | This attack does 60 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Sideways  |                                  |
+
+[Critical Bolt](https://x.com/plakoro_pokepla/status/2082994699628150947/photo/1)
