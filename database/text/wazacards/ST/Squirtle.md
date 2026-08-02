@@ -134,3 +134,24 @@
 | Sideways  | This attack does 20 more damage. |
 
 [Mud Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
+
+### Promo
+
+#### Hard Shell ?
+
+| Name      | Hard Shell ?                                                                      |
+| --------- | --------------------------------------------------------------------------------- |
+| Japanese  | カチカチこうら                                                                    |
+| Type      | Water                                                                             |
+| Code      | PRW01-3-08                                                                        |
+| Pokémon   | Squirtle                                                                          |
+| Energy    | {W}{W}{W}                                                                         |
+| Damage    | 20                                                                                |
+| Effect    |                                                                                   |
+| Standing  |                                                                                   |
+| Handstand |                                                                                   |
+| Back      |                                                                                   |
+| Down      | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
+| Sideways  |                                                                                   |
+
+[Hard Shell](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img03.webp)
