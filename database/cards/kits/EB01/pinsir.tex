@@ -1,0 +1,45 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage[
+    a4paper,
+    margin=0pt
+]{geometry}
+\usetikzlibrary{matrix,calc}
+
+\begin{document}
+\thispagestyle{empty}
+\vspace*{\dimexpr(\textheight-27cm)/2\relax}
+\noindent
+\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
+\begin{tikzpicture}
+
+    % Matrix of fixed-size nodes
+    \matrix (m) [
+        matrix of nodes,
+        nodes={
+                draw,
+                anchor=center,
+                minimum width=6cm,
+                minimum height=3cm,
+                inner sep=0pt
+            },
+        row sep=0pt,
+        column sep=0pt
+    ]{
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-001_Pinsir.png}     &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-001.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-002.png} & \\
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-003.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-004.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-005.png} & \\
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-006.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-007.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-008.png} & \\
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-009.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-010.png} & \\
+    };
+
+\end{tikzpicture}
+
+\end{document}

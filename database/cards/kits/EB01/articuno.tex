@@ -1,0 +1,45 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage[
+    a4paper,
+    margin=0pt
+]{geometry}
+\usetikzlibrary{matrix,calc}
+
+\begin{document}
+\thispagestyle{empty}
+\vspace*{\dimexpr(\textheight-27cm)/2\relax}
+\noindent
+\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
+\begin{tikzpicture}
+
+    % Matrix of fixed-size nodes
+    \matrix (m) [
+        matrix of nodes,
+        nodes={
+                draw,
+                anchor=center,
+                minimum width=6cm,
+                minimum height=3cm,
+                inner sep=0pt
+            },
+        row sep=0pt,
+        column sep=0pt
+    ]{
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-003_Articuno.png}     &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-021.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-022.png} & \\
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-023.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-024.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-025.png} & \\
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-026.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-027.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-028.png} & \\
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-029.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-030.png} & \\
+    };
+
+\end{tikzpicture}
+
+\end{document}
