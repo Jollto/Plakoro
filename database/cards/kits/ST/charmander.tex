@@ -1,0 +1,43 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage[
+    a4paper,
+    margin=0pt
+]{geometry}
+\usetikzlibrary{matrix,calc}
+
+\begin{document}
+\thispagestyle{empty}
+\vspace*{\dimexpr(\textheight-27cm)/2\relax}
+\noindent
+\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
+\begin{tikzpicture}
+
+    % Matrix of fixed-size nodes
+    \matrix (m) [
+        matrix of nodes,
+        nodes={
+                draw,
+                anchor=center,
+                minimum width=6cm,
+                minimum height=3cm,
+                inner sep=0pt
+            },
+        row sep=0pt,
+        column sep=0pt
+    ]{
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC02-001_Charmander}        &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/PRW01-2-08.png} &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-001.png}    \\
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-002.png}  &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-003.png}  &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-004.png}    \\
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-005.png}  &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-006.png}  &
+        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-007.png}    \\
+    };
+
+\end{tikzpicture}
+
+\end{document}

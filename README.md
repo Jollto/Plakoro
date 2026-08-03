@@ -63,6 +63,7 @@ This license does **not** apply to either Pokémon's and Plakoro's original artw
                 - one folder for each Pokémon
             - [EB01](/database/cards/wazacards/EB01/) : expansion box 01 Pokémon
                 - one folder for each Pokémon
+        - [kits](/database/cards/kits/) : prints for each Pokémon with all its cards, plus the .tex files to make them. PDF size is A4, with cards 6cm * 3 cm.
     - [text](/database/text/) : text translations
         - [symbols.md](/database/text/symbols.md): symbols used by the game, reference here for keys
         - [characards.md](/database/text/characards.md) : characards translation

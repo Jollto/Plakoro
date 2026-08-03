@@ -16,7 +16,7 @@
 |  Flying  |   空（そら）   |  {Y}   |   ![Flying](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)    |
 |  Normal  | 無（むしょく） |  {C}   |   ![Normal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/normal.webp)    |
 
-Japanese text (from FAQ) uses TCG terminology, but icons from webpage uses VCG types, I'll be using VCG types too.
+Japanese text (from FAQ) uses TCG terminology, but icons from webpage uses VGC types, I'll be using VGC types too.
 
 For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flying type.
 
