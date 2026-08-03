@@ -2,9 +2,9 @@
 
 ### Expansion Box 1
 
-#### Concentrator ?
+#### Concentrate ?
 
-| Name      | Concentrator ?                                                   |
+| Name      | Concentrate ?                                                    |
 | --------- | ---------------------------------------------------------------- |
 | Japanese  | しゅうちゅう                                                     |
 | Type      | Grass                                                            |
@@ -19,7 +19,7 @@
 | Down      |                                                                  |
 | Sideways  | On your next turn, increase the number of Enekoro you roll by 2. |
 
-[Concentrator](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
+[Concentrate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
 #### Endure ?
 
