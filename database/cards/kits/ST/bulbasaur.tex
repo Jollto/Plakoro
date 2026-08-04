@@ -6,38 +6,18 @@
     margin=0pt
 ]{geometry}
 \usetikzlibrary{matrix,calc}
-
+\input{../commands.tex}
 \begin{document}
-\thispagestyle{empty}
-\vspace*{\dimexpr(\textheight-27cm)/2\relax}
-\noindent
-\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
-\begin{tikzpicture}
-
-    % Matrix of fixed-size nodes
-    \matrix (m) [
-        matrix of nodes,
-        nodes={
-                draw,
-                anchor=center,
-                minimum width=6cm,
-                minimum height=3cm,
-                inner sep=0pt
-            },
-        row sep=0pt,
-        column sep=0pt
-    ]{
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC01-001_Bulbasaur}        &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/PRW01-1-08.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-001.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-002.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-003.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-004.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-005.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-006.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-007.png}  & \\
-    };
-
-\end{tikzpicture}
+\cardpage{
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC01-001_Bulbasaur}       \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/PRW01-1-08.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-001.png} \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-002.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-003.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-004.png} \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-005.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-006.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-007.png} \& \\
+}
 
 \end{document}

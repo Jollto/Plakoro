@@ -5,108 +5,70 @@
     a4paper,
     margin=0pt
 ]{geometry}
-\usetikzlibrary{matrix,calc}
+\input{../commands.tex}
 
 \begin{document}
-\thispagestyle{empty}
-\vspace*{\dimexpr(\textheight-27cm)/2\relax}
-\noindent
-\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
-\begin{tikzpicture}
+\cardpage{
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC01-001_Bulbasaur}         \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/PRW01-1-08.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-001.png}   \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-002.png}   \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-003.png}   \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-004.png}   \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-005.png}   \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-006.png}   \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-007.png}   \& \\
 
-    % Matrix of fixed-size nodes
-    \matrix (m) [
-        matrix of nodes,
-        nodes={
-                draw,
-                anchor=center,
-                minimum width=6cm,
-                minimum height=3cm,
-                inner sep=0pt
-            },
-        row sep=0pt,
-        column sep=0pt
-    ]{
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC01-001_Bulbasaur}         &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/PRW01-1-08.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-001.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-002.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-003.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-004.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-005.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-006.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/bulbasaur/STW01-007.png}   & \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC02-001_Charmander}        \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/PRW01-2-08.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-001.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-002.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-003.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-004.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-005.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-006.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-007.png}  \& \\
 
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC02-001_Charmander}        &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/PRW01-2-08.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-001.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-002.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-003.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-004.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-005.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-006.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/charmander/STW02-007.png}  & \\
-
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC03-001_Squirtle}          &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/PRW01-3-08.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-001.png}    & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-002.png}    &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-003.png}    &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-004.png}    & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-005.png}    &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-006.png}    &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-007.png}    & \\
-    };
-\end{tikzpicture}
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC03-001_Squirtle}          \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/PRW01-3-08.png}   \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-001.png}    \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-002.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-003.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-004.png}    \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-005.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-006.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-007.png}    \& \\
+}
 
 \newpage
-\thispagestyle{empty}
-\vspace*{\dimexpr(\textheight-27cm)/2\relax}
-\noindent
-\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
-\begin{tikzpicture}
+\cardpage{
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC04-001_Pikachu}      \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/PRW01-008.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-001.png}\& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-002.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-003.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-004.png}\& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-005.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-006.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-007.png}\& \\
 
-    % Matrix of fixed-size nodes
-    \matrix (m) [
-        matrix of nodes,
-        nodes={
-                draw,
-                anchor=center,
-                minimum width=6cm,
-                minimum height=3cm,
-                inner sep=0pt
-            },
-        row sep=0pt,
-        column sep=0pt
-    ]{
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC04-001_Pikachu}       &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/PRW01-008.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-001.png} & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-002.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-003.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-004.png} & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-005.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-006.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/pikachu/STW04-007.png} & \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC05-001_Eevee}        \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-001.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-002.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-003.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-004.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-005.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-006.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-007.png}  \& \\
 
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC05-001_Eevee}         &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-001.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-002.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-003.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-004.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-005.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-006.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/eevee/STW05-007.png}   & \\
-
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC06-001_Mew}           &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-001.png}     & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-002.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-003.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-004.png}     & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-005.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-006.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-007.png}     & \\
-    };
-\end{tikzpicture}
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC06-001_Mew}          \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-001.png}    \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-002.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-003.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-004.png}    \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-005.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-006.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/mew/STW06-007.png}    \& \\
+}
 
 \end{document}

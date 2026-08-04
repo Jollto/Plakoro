@@ -6,38 +6,19 @@
     margin=0pt
 ]{geometry}
 \usetikzlibrary{matrix,calc}
+\input{../commands.tex}
 
 \begin{document}
-\thispagestyle{empty}
-\vspace*{\dimexpr(\textheight-27cm)/2\relax}
-\noindent
-\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
-\begin{tikzpicture}
-
-    % Matrix of fixed-size nodes
-    \matrix (m) [
-        matrix of nodes,
-        nodes={
-                draw,
-                anchor=center,
-                minimum width=6cm,
-                minimum height=3cm,
-                inner sep=0pt
-            },
-        row sep=0pt,
-        column sep=0pt
-    ]{
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC03-001_Squirtle}        &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/PRW01-3-08.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-001.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-002.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-003.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-004.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-005.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-006.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-007.png}  & \\
-    };
-
-\end{tikzpicture}
+\cardpage{
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/STC03-001_Squirtle}       \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/PRW01-3-08.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-001.png} \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-002.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-003.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-004.png} \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-005.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-006.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/ST/squirtle/STW03-007.png} \& \\
+}
 
 \end{document}

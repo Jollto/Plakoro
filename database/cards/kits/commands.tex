@@ -1,0 +1,23 @@
+\usetikzlibrary{matrix,calc}
+\newcommand{\cardpage}[1]{%
+    \thispagestyle{empty}%
+    \begin{tikzpicture}[remember picture,overlay]
+        \matrix [
+            matrix of nodes,
+            anchor=center,
+            ampersand replacement=\&,
+            nodes={
+                draw,
+                anchor=center,
+                minimum width=6cm,
+                minimum height=3cm,
+                inner sep=0pt
+            },
+            row sep=0pt,
+            column sep=0pt
+        ] at (current page.center) {
+            #1
+        };
+    \end{tikzpicture}%
+    \null
+}
