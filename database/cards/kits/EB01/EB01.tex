@@ -6,145 +6,88 @@
     margin=0pt
 ]{geometry}
 \usetikzlibrary{matrix,calc}
+\input{../commands}
 
 \begin{document}
-\thispagestyle{empty}
-\vspace*{\dimexpr(\textheight-27cm)/2\relax}
-\noindent
-\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
-\begin{tikzpicture}
+\cardpage{
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-001_Pinsir.png}      \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-001.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-002.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-003.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-004.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-005.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-006.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-007.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-008.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-009.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-010.png}  \&
 
-    % Matrix of fixed-size nodes
-    \matrix (m) [
-        matrix of nodes,
-        nodes={
-                draw,
-                anchor=center,
-                minimum width=6cm,
-                minimum height=3cm,
-                inner sep=0pt
-            },
-        row sep=0pt,
-        column sep=0pt
-    ]{
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-001_Pinsir.png}       &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-001.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-002.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-003.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-004.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-005.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-006.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-007.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-008.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-009.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/pinsir/EBW01-010.png}   &
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-002_Moltres.png}     \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-011.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-012.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-013.png} \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-014.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-015.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-016.png} \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-017.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-018.png} \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-019.png} \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-020.png} \&
 
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-002_Moltres.png}      & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-011.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-012.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-013.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-014.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-015.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-016.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-017.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-018.png}  &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-019.png}  & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/moltres/EBW01-020.png}  &
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-003_Articuno.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-021.png}\& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-022.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-023.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-024.png}\& \\
+}
+\newpage
+\cardpage{
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-025.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-026.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-027.png}\& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-028.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-029.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-030.png}\& \\
 
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-003_Articuno.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-021.png} & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-022.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-023.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-024.png} & \\
-    };
-\end{tikzpicture}
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-004_Zapdos.png}      \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-031.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-032.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-033.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-034.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-035.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-036.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-037.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-038.png}  \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-039.png}  \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-040.png}  \&
+
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-005_Onix.png}        \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-041.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-042.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-043.png}    \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-044.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-045.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-046.png}    \& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-047.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-048.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-049.png}    \& \\
+}
+
 
 \newpage
-\thispagestyle{empty}
-\vspace*{\dimexpr(\textheight-27cm)/2\relax}
-\noindent
-\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
-\begin{tikzpicture}
+\cardpage{
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-050.png}  \&
 
-    % Matrix of fixed-size nodes
-    \matrix (m) [
-        matrix of nodes,
-        nodes={
-                draw,
-                anchor=center,
-                minimum width=6cm,
-                minimum height=3cm,
-                inner sep=0pt
-            },
-        row sep=0pt,
-        column sep=0pt
-    ]{
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-025.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-026.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-027.png} & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-028.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-029.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/articuno/EBW01-030.png} & \\
-
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-004_Zapdos.png}       &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-031.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-032.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-033.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-034.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-035.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-036.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-037.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-038.png}   & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-039.png}   &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/zapdos/EBW01-040.png}   &
-
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-005_Onix.png}         & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-041.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-042.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-043.png}     & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-044.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-045.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-046.png}     & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-047.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-048.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-049.png}     & \\
-    };
-\end{tikzpicture}
-
-\newpage
-\thispagestyle{empty}
-\vspace*{\dimexpr(\textheight-27cm)/2\relax}
-\noindent
-\hspace*{\dimexpr(\textwidth-18cm)/2\relax}
-\begin{tikzpicture}
-
-    % Matrix of fixed-size nodes
-    \matrix (m) [
-        matrix of nodes,
-        nodes={
-                draw,
-                anchor=center,
-                minimum width=6cm,
-                minimum height=3cm,
-                inner sep=0pt
-            },
-        row sep=0pt,
-        column sep=0pt
-    ]{
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/onix/EBW01-050.png}   &
-
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-006_Grimer.png}     &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-051.png} & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-052.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-053.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-054.png} & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-055.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-057.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-058.png} & \\
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-059.png} &
-        \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-060.png} & \\
-    };
-
-\end{tikzpicture}
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/characards/EBC01-006_Grimer.png}    \&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-051.png}\& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-052.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-053.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-054.png}\& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-055.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-057.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-058.png}\& \\
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-059.png}\&
+    \includegraphics[width=6cm,height=3cm]{../../../../database/cards/wazacards/EB01/grimer/EBW01-060.png}\& \\
+}
 
 \end{document}
