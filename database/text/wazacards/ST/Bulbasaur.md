@@ -87,7 +87,7 @@
 | Code      | STW01-005                                   |
 | Pokémon   | Bulbasaur                                   |
 | Energy    | {G}{G}{G}                                   |
-| Damage    | 10                                          |
+| Damage    | 30                                          |
 | Effect    |                                             |
 | Standing  | This attack does 40 more damage.            |
 | Handstand | This Pokémon also does 30 damage to itself. |
