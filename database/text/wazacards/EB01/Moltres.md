@@ -10,7 +10,7 @@
 | Type      | Fire                                        |
 | Code      | EBW01-011                                   |
 | Pokémon   | Moltres                                     |
-| Energy    | {F}{F}                                      |
+| Energy    | {R}{R}                                      |
 | Damage    | 30                                          |
 | Effect    |                                             |
 | Standing  | This attack does 30 more damage.            |
@@ -29,7 +29,7 @@
 | Type      | Fire                             |
 | Code      | EBW01-012                        |
 | Pokémon   | Moltres                          |
-| Energy    | {F}{F}{F}                        |
+| Energy    | {R}{R}{R}                        |
 | Damage    | 30                               |
 | Effect    |                                  |
 | Standing  | This attack does 20 more damage. |
@@ -48,7 +48,7 @@
 | Type      | Fire                                                           |
 | Code      | EBW01-013                                                      |
 | Pokémon   | Moltres                                                        |
-| Energy    | {F}{F}{F}{F}                                                   |
+| Energy    | {R}{R}{R}{R}                                                   |
 | Damage    | 40                                                             |
 | Effect    |
 | Standing  | This attack does 40 more damage.                               |
@@ -67,7 +67,7 @@
 | Type      | Fire                                        |
 | Code      | EBW01-014                                   |
 | Pokémon   | Moltres                                     |
-| Energy    | {F}{F}{F}{F}{F}                             |
+| Energy    | {R}{R}{R}{R}{R}                             |
 | Damage    | 50                                          |
 | Effect    |                                             |
 | Standing  | This attack does 40 more damage.            |
@@ -105,7 +105,7 @@
 | Type      | Fire                                                           |
 | Code      | EBW01-016                                                      |
 | Pokémon   | Moltres                                                        |
-| Energy    | {F}{F}                                                         |
+| Energy    | {R}{R}                                                         |
 | Damage    | 20                                                             |
 | Effect    |                                                                |
 | Standing  | This attack does 40 more damage.                               |
@@ -124,7 +124,7 @@
 | Type      | Fire                                        |
 | Code      | EBW01-017                                   |
 | Pokémon   | Moltres                                     |
-| Energy    | {F}{F}{F}                                   |
+| Energy    | {R}{R}{R}                                   |
 | Damage    | 40                                          |
 | Effect    |                                             |
 | Standing  | This attack does 40 more damage.            |
@@ -143,7 +143,7 @@
 | Type      | Fire                      |
 | Code      | EBW01-018                 |
 | Pokémon   | Moltres                   |
-| Energy    | {F}{F}{F}{F}              |
+| Energy    | {R}{R}{R}{R}              |
 | Damage    | 80                        |
 | Effect    |                           |
 | Standing  |                           |
@@ -164,11 +164,11 @@
 | Pokémon   | Moltres                          |
 | Energy    | {Y}                              |
 | Damage    | 20                               |
-| Effect    |
+| Effect    |                                  |
 | Standing  | This attack does 10 more damage. |
-| Handstand |
+| Handstand |                                  |
 | Back      | This attack does 10 more damage. |
-| Down      |
+| Down      |                                  |
 | Sideways  | This attack does 10 more damage. |
 
 [Wing Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard09.webp)
