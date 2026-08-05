@@ -42,20 +42,20 @@
 
 #### Volt Rush ?
 
-| Name      | Volt Rush ?                                                                     |
-| --------- | ------------------------------------------------------------------------------- |
-| Japanese  | ボルトラッシュ                                                                  |
-| Type      | Electric                                                                        |
-| Code      | EBW01-033                                                                       |
-| Pokémon   | Zapdos                                                                          |
-| Energy    | {L}{L}{L}{L}                                                                    |
-| Damage    | 10                                                                              |
-| Effect    | Roll your Charakoro 3 times.                                                    |
-| Standing  | Each time the Charakoro roll succeeds with this attack, it does 30 more damage. |
-| Handstand |                                                                                 |
-| Back      |                                                                                 |
-| Down      |                                                                                 |
-| Sideways  | Each time the Charakoro roll succeeds with this attack, it does 30 more damage. |
+| Name      | Volt Rush ?                                                                              |
+| --------- | ---------------------------------------------------------------------------------------- |
+| Japanese  | ボルトラッシュ                                                                           |
+| Type      | Electric                                                                                 |
+| Code      | EBW01-033                                                                                |
+| Pokémon   | Zapdos                                                                                   |
+| Energy    | {L}{L}{L}{L}                                                                             |
+| Damage    | 10                                                                                       |
+| Effect    | Roll your Charakoro 3 times.                                                             |
+| Standing  | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
+| Handstand |                                                                                          |
+| Back      |                                                                                          |
+| Down      |                                                                                          |
+| Sideways  | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
 
 [Volt Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
 
@@ -99,20 +99,20 @@
 
 #### Dual Thunder ?
 
-| Name      | Dual Thunder ?                                                                  |
-| --------- | ------------------------------------------------------------------------------- |
-| Japanese  | ダブルサンダー                                                                  |
-| Type      | Electric                                                                        |
-| Code      | EBW01-036                                                                       |
-| Pokémon   | Zapdos                                                                          |
-| Energy    | {L}                                                                             |
-| Damage    |                                                                                 |
-| Effect    | Roll your Charakoro 2 times.                                                    |
-| Standing  | Each time the Charakoro roll succeeds with this attack, it does 20 more damage. |
-| Handstand |                                                                                 |
-| Back      | Each time the Charakoro roll succeeds with this attack, it does 20 more damage. |
-| Down      | Each time the Charakoro roll succeeds with this attack, it does 20 more damage. |
-| Sideways  |                                                                                 |
+| Name      | Dual Thunder ?                                                                           |
+| --------- | ---------------------------------------------------------------------------------------- |
+| Japanese  | ダブルサンダー                                                                           |
+| Type      | Electric                                                                                 |
+| Code      | EBW01-036                                                                                |
+| Pokémon   | Zapdos                                                                                   |
+| Energy    | {L}                                                                                      |
+| Damage    |                                                                                          |
+| Effect    | Roll your Charakoro 2 times.                                                             |
+| Standing  | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Handstand |                                                                                          |
+| Back      | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Down      | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Sideways  |                                                                                          |
 
 [Dual Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard06.webp)
 
